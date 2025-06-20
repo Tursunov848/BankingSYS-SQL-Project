@@ -341,3 +341,35 @@ create table Merchant_Services.merchant_transactions (
     foreign key (merchant_id) references Merchant_Services.merchants(merchant_id)
 );
 
+
+--------------------------------------------------------------
+insert into Core_Banking.customers select * from staging.stg_customers;
+insert into Core_Banking.branches select * from staging.stg_branches;
+insert into Core_Banking.employees select * from staging.stg_employees;
+insert into Core_Banking.accounts select * from staging.stg_accounts;
+insert into Core_Banking.transactions select * from staging.stg_transactions;
+insert into Digital_Banking_Payments.credit_cards select * from staging.stg_credit_cards;
+insert into Digital_Banking_Payments.credit_card_transactions select * from staging.stg_credit_card_transactions;
+insert into Digital_Banking_Payments.online_banking_users select * from staging.stg_online_banking_users;
+insert into Digital_Banking_Payments.bill_payments select * from staging.stg_bill_payments;
+insert into Digital_Banking_Payments.mobile_banking_transactions select * from staging.stg_mobile_banking_transactions;
+insert into Loans_Credit.loans select * from staging.stg_loans;
+insert into Loans_Credit.loan_payments select * from staging.stg_loan_payments;
+insert into Loans_Credit.credit_scores select * from staging.stg_credit_scores;
+insert into Loans_Credit.debt_collection select * from staging.stg_debt_collection;
+insert into Compliance_Risk.kyc select * from staging.stg_kyc;
+insert into Compliance_Risk.fraud_detection select * from staging.stg_fraud_detection;
+insert into Compliance_Risk.aml_cases select * from staging.stg_aml_cases;
+insert into Compliance_Risk.regulatory_reports select * from staging.stg_regulatory_reports;
+insert into Human_Resources.departments select * from staging.stg_departments;
+insert into Human_Resources.salaries select * from staging.stg_salaries;
+insert into Human_Resources.employee_attendance select * from staging.stg_employee_attendance;
+insert into Investments_Treasury.investments select * from staging.stg_investments;
+insert into Investments_Treasury.stock_trading_accounts select * from staging.stg_stock_trading_accounts;
+insert into Investments_Treasury.foreign_exchange select * from staging.stg_foreign_exchange;
+insert into Insurance_Security.insurance_policies select * from staging.stg_insurance_policies;
+insert into Insurance_Security.claims select * from staging.stg_claims;
+insert into Insurance_Security.user_access_logs select * from staging.stg_user_access_logs;
+insert into Insurance_Security.cyber_security_incidents select * from staging.stg_cyber_security_incidents;
+insert into Merchant_Services.merchants select * from staging.stg_merchants;
+insert into Merchant_Services.merchant_transactions select * from staging.stg_merchant_transactions;
