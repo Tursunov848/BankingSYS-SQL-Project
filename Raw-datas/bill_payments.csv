@@ -1,0 +1,1000 @@
+PaymentID,CustomerID,BillerName,Amount,Date,Status
+1,585,Perez-Hart,218.58,2/26/2025,Failed
+2,479,George Inc,41.03,6/7/2025,Failed
+3,873,Wolfe LLC,941.69,3/1/2025,Failed
+4,886,Lane-Carter,381.3,5/29/2025,Failed
+5,402,Galloway Group,196.33,1/29/2025,Paid
+6,481,Miller-Williams,547.22,6/11/2025,Failed
+7,436,Castillo Inc,164.26,3/13/2025,Paid
+8,461,"Collier, Griffin and Pierce",128.45,5/5/2025,Paid
+9,421,Scott-Lee,45.55,6/18/2025,Paid
+10,955,Richardson-Carr,833.59,4/29/2025,Failed
+11,807,"Goodwin, Martinez and Kelly",744.82,2/27/2025,Paid
+12,125,"Holden, Sharp and Andrews",569.89,5/10/2025,Paid
+13,758,Hurley-Padilla,135.19,1/22/2025,Paid
+14,447,Jones LLC,841.67,5/21/2025,Paid
+15,604,Rice-Zamora,292.77,3/29/2025,Paid
+16,835,Michael-Brown,564.63,1/6/2025,Failed
+17,51,"Chavez, Grant and Williams",68.01,2/16/2025,Paid
+18,140,Lewis-Phillips,509.6,1/5/2025,Failed
+19,683,"White, Thompson and Moore",184.73,2/6/2025,Paid
+20,353,"Maddox, Ramos and Miller",930.49,4/29/2025,Failed
+21,477,Sanchez Ltd,826.82,4/9/2025,Failed
+22,804,Christensen and Sons,68.76,2/26/2025,Failed
+23,688,Swanson-Sandoval,596.9,2/24/2025,Paid
+24,715,Davis-Meyer,397.98,5/31/2025,Paid
+25,903,Bowers-Mckinney,959.67,2/12/2025,Paid
+26,577,"Cooper, Johnson and Russo",349.13,1/13/2025,Failed
+27,314,"Garcia, Garcia and Walker",445.33,6/16/2025,Failed
+28,461,Williams-Wheeler,218.23,2/5/2025,Failed
+29,985,Dawson-Nguyen,602.73,4/23/2025,Failed
+30,713,White PLC,802.19,6/13/2025,Paid
+31,608,Howell-Thomas,821.09,3/9/2025,Paid
+32,38,Simmons Ltd,367.02,2/14/2025,Paid
+33,995,"Mahoney, Harper and Fisher",220.56,6/13/2025,Failed
+34,246,Shelton-Williams,858.37,3/2/2025,Failed
+35,817,"Miller, Jenkins and Watts",296.66,6/13/2025,Paid
+36,361,Pitts-Norris,63.99,2/5/2025,Failed
+37,366,Jones PLC,123.72,1/24/2025,Failed
+38,765,Stein LLC,280.37,1/6/2025,Failed
+39,655,Hull-Hernandez,483.43,3/8/2025,Failed
+40,555,Martinez Ltd,138.23,1/23/2025,Paid
+41,749,Patrick Inc,130.75,5/17/2025,Failed
+42,269,White Inc,519.4,1/11/2025,Failed
+43,512,Hickman-Beasley,462.1,4/19/2025,Paid
+44,383,"Mccarthy, Jimenez and Phillips",866.05,3/3/2025,Failed
+45,671,Howard-Mitchell,559.06,6/6/2025,Paid
+46,550,Edwards-Davidson,250.49,3/13/2025,Failed
+47,619,"Melendez, Campbell and Skinner",587.12,1/1/2025,Failed
+48,770,"Robertson, Guerrero and Hartman",141.71,4/3/2025,Failed
+49,149,Roberson PLC,777.56,3/10/2025,Paid
+50,627,Phillips LLC,216.14,6/20/2025,Failed
+51,914,Martin-Farley,269.09,6/12/2025,Paid
+52,153,Holt Ltd,393.89,2/2/2025,Failed
+53,115,"Aguirre, Allen and Smith",585.78,2/1/2025,Failed
+54,986,Shaffer PLC,593.56,6/2/2025,Paid
+55,216,"White, Norris and Glenn",382.17,2/9/2025,Paid
+56,218,Hunt PLC,634.57,4/19/2025,Paid
+57,784,"Davis, Hale and Butler",564.01,6/9/2025,Paid
+58,41,Johnson Group,334.52,2/25/2025,Failed
+59,544,Martinez Inc,149.95,1/14/2025,Failed
+60,383,"Caldwell, Rose and Lopez",247.5,1/31/2025,Failed
+61,864,Malone Ltd,344.85,5/6/2025,Failed
+62,707,"Reid, Carter and Mendoza",188.23,3/19/2025,Paid
+63,613,"Lee, Davenport and Long",682.03,6/3/2025,Failed
+64,260,"Vance, White and Peck",490.45,5/2/2025,Paid
+65,117,Norton Group,202.57,5/18/2025,Paid
+66,413,Rubio-Flores,599.07,1/8/2025,Paid
+67,298,"Martinez, Jones and Pena",751.09,3/27/2025,Paid
+68,463,Collins Ltd,246.14,5/25/2025,Paid
+69,820,Hall Ltd,144.98,5/21/2025,Paid
+70,85,Rodgers-Martinez,451.69,3/24/2025,Failed
+71,523,"Butler, Cooley and Navarro",442.87,1/31/2025,Paid
+72,813,"Pruitt, Bullock and Buchanan",259.41,2/3/2025,Failed
+73,703,"Andrews, Watkins and Walker",726.8,5/23/2025,Failed
+74,383,Chapman-Hanna,839.77,3/19/2025,Paid
+75,324,"Carrillo, Bradshaw and Flowers",339.14,6/8/2025,Failed
+76,710,"Elliott, Lewis and Alexander",666.96,3/14/2025,Failed
+77,800,"Cline, Woodward and Lopez",848.13,4/16/2025,Paid
+78,470,Howard Group,314.64,2/19/2025,Paid
+79,937,Williams LLC,143.03,4/24/2025,Failed
+80,217,Park-Santiago,315.77,5/15/2025,Failed
+81,212,Duke-Sanders,362.75,3/21/2025,Paid
+82,71,Nguyen LLC,696.14,5/25/2025,Failed
+83,361,"Wilkerson, Pruitt and Ross",51.02,3/21/2025,Paid
+84,922,Nguyen-Lawson,969.32,5/21/2025,Paid
+85,52,Gomez-Briggs,626.52,4/3/2025,Paid
+86,751,Cherry-Thomas,791.47,5/17/2025,Failed
+87,606,Ray PLC,707.79,5/31/2025,Failed
+88,462,"Foster, Williams and Baldwin",650.78,6/12/2025,Failed
+89,191,Turner-Hood,884.42,1/4/2025,Failed
+90,202,Barron-Newman,215.48,2/12/2025,Paid
+91,417,Shepard-Santos,545.12,1/17/2025,Failed
+92,1000,Randall-Contreras,24.67,5/16/2025,Failed
+93,333,"Mcfarland, Edwards and Christensen",36.24,5/6/2025,Failed
+94,234,Mcfarland PLC,778.53,2/18/2025,Failed
+95,273,Murphy and Sons,805.83,3/12/2025,Paid
+96,805,Clark Ltd,722.52,2/19/2025,Paid
+97,308,Liu-Rangel,162.99,5/14/2025,Failed
+98,799,Davis-Hebert,753.7,1/2/2025,Failed
+99,267,"Daniel, Garcia and Campbell",629.79,3/25/2025,Failed
+100,286,"Brock, Reynolds and Moore",844.66,6/7/2025,Paid
+101,118,"Jimenez, Smith and Lester",922.41,4/2/2025,Paid
+102,110,Rivera Group,853.78,1/6/2025,Paid
+103,518,Harper-Murray,554.78,5/8/2025,Failed
+104,626,Lee-Lawrence,895.78,2/28/2025,Paid
+105,220,"Mckinney, Berger and Park",960.2,4/21/2025,Paid
+106,379,"Smith, Moore and Garcia",459.33,4/13/2025,Failed
+107,216,Anderson-Stanley,538.1,4/23/2025,Paid
+108,104,"Burns, Wallace and Mendez",107.37,5/11/2025,Failed
+109,39,Vargas-Gardner,857.99,5/21/2025,Failed
+110,470,Sanchez-Jordan,382.04,4/26/2025,Paid
+111,659,Anderson-Reyes,110.66,6/12/2025,Failed
+112,294,"White, Delgado and Gonzalez",844.73,3/24/2025,Paid
+113,394,Gallagher-Williams,203.63,6/17/2025,Failed
+114,931,Garcia and Sons,336.87,3/12/2025,Failed
+115,167,"Silva, Lawson and Baxter",23.18,4/15/2025,Paid
+116,985,"Ford, Morris and Moss",140.97,3/25/2025,Paid
+117,350,Sanchez Group,714.87,3/15/2025,Failed
+118,638,Flores-Castro,715.01,5/27/2025,Paid
+119,148,Gillespie-Shah,670.34,3/23/2025,Failed
+120,5,"Silva, Henry and Taylor",500.39,1/24/2025,Paid
+121,769,"Hayden, Taylor and Melton",455.93,3/21/2025,Failed
+122,235,"Nelson, Kelly and Reed",290.67,3/1/2025,Failed
+123,935,Garcia-Johnson,80.82,2/6/2025,Failed
+124,854,Perez Inc,927.66,6/7/2025,Failed
+125,702,Roman Ltd,68.6,2/13/2025,Paid
+126,428,"Burch, King and Blair",69.71,2/11/2025,Paid
+127,949,Anderson and Sons,579.27,5/2/2025,Paid
+128,53,Olson Group,452.67,6/16/2025,Failed
+129,111,Riley-Estrada,403.36,4/24/2025,Failed
+130,137,Thornton-Johnson,93.07,1/4/2025,Paid
+131,758,Hernandez LLC,193.77,6/4/2025,Paid
+132,170,"Davis, Mason and Franklin",305.24,3/24/2025,Paid
+133,500,Logan-Matthews,351.19,4/9/2025,Paid
+134,393,Spears-Higgins,524.3,3/29/2025,Failed
+135,447,"Lin, Davis and Patterson",268.03,5/23/2025,Paid
+136,542,Miranda-Robinson,737.29,3/1/2025,Failed
+137,277,"Turner, Roberts and Hernandez",139.41,5/21/2025,Paid
+138,691,Bernard Group,213.12,6/8/2025,Failed
+139,369,Mccarthy-Delgado,736.2,4/27/2025,Paid
+140,144,Miller Group,527.53,6/10/2025,Paid
+141,337,Coleman Inc,906.7,4/6/2025,Failed
+142,566,Heath and Sons,134.24,6/18/2025,Paid
+143,683,"Mack, Dominguez and Roberts",385.75,4/7/2025,Failed
+144,562,Wilkinson-Paul,187.03,2/14/2025,Paid
+145,721,"Frazier, Rodriguez and Nelson",342.61,5/5/2025,Failed
+146,607,"Collier, Lewis and Garcia",194.72,5/1/2025,Paid
+147,834,Jones Group,593.2,4/19/2025,Paid
+148,659,Martin and Sons,691.86,4/22/2025,Failed
+149,164,Thompson Ltd,579.02,4/15/2025,Failed
+150,516,Garcia-Martinez,130.64,1/12/2025,Paid
+151,292,Burgess-Mcgee,26.7,5/7/2025,Paid
+152,222,Fletcher-Huerta,819.26,2/12/2025,Failed
+153,711,"Wallace, Barnes and Daniels",709.21,2/6/2025,Paid
+154,595,Lopez LLC,138.58,1/25/2025,Paid
+155,423,Tanner PLC,335.02,4/9/2025,Paid
+156,928,"Short, Raymond and Reed",138.29,5/22/2025,Paid
+157,841,"Anderson, Clark and Miller",716.39,5/26/2025,Paid
+158,462,"Sellers, Kennedy and Hensley",315.93,2/21/2025,Paid
+159,156,"Mckay, Parker and Gilbert",70.61,5/26/2025,Failed
+160,719,"Irwin, Castillo and Burgess",321.08,6/11/2025,Failed
+161,413,Foster-Waller,376.71,2/4/2025,Failed
+162,557,Brown-Martinez,92.62,3/20/2025,Paid
+163,475,Gates Ltd,202.89,4/15/2025,Paid
+164,254,"Mitchell, Rice and Floyd",668.83,5/9/2025,Failed
+165,909,Hughes-Dixon,674.66,6/10/2025,Paid
+166,936,Burgess-Alexander,428.02,2/2/2025,Failed
+167,711,Peters-Galloway,646.48,4/29/2025,Paid
+168,931,Hodge PLC,967.33,2/12/2025,Paid
+169,815,Carroll-Cox,166.54,2/13/2025,Paid
+170,574,Mercado and Sons,661.54,2/18/2025,Paid
+171,101,"Johnson, Bennett and Walsh",206.87,6/2/2025,Failed
+172,904,Spencer-Mcmahon,154.65,2/19/2025,Paid
+173,368,Coleman-Davis,414.59,2/24/2025,Paid
+174,909,"Alvarado, Miller and Casey",965.35,2/1/2025,Failed
+175,188,Haynes LLC,552.28,5/14/2025,Paid
+176,745,Robinson PLC,142.88,6/18/2025,Failed
+177,405,Ali PLC,190.67,5/7/2025,Failed
+178,489,"Campos, Stokes and Chapman",836.96,2/7/2025,Paid
+179,800,"Kennedy, Castillo and Shaw",174.94,6/9/2025,Paid
+180,321,Lynch-Wolfe,261.96,3/4/2025,Failed
+181,163,Mullins PLC,256.91,6/6/2025,Failed
+182,452,Pham-Cummings,803.84,3/23/2025,Failed
+183,486,Williams Inc,397.17,3/20/2025,Failed
+184,792,Allen Ltd,151.92,1/17/2025,Paid
+185,668,Kramer-Carlson,993,3/12/2025,Failed
+186,656,Duran-Andrews,711.96,4/22/2025,Failed
+187,726,"Ballard, Hunt and Miller",407.24,5/19/2025,Failed
+188,310,Spencer Group,70.77,1/11/2025,Failed
+189,499,Tran Group,865.99,4/24/2025,Paid
+190,41,"Torres, Lester and Johnson",459.84,4/30/2025,Failed
+191,183,Owens LLC,797.62,3/5/2025,Paid
+192,21,"Bennett, Tran and Tucker",256.28,1/13/2025,Paid
+193,716,Rogers-Chan,55.08,3/21/2025,Failed
+194,875,Pennington-Coffey,91.58,2/17/2025,Failed
+195,990,Vance LLC,918.88,3/13/2025,Failed
+196,818,"Richardson, Villanueva and Watkins",472.71,3/27/2025,Paid
+197,353,"Ross, White and Patterson",290.98,4/23/2025,Failed
+198,355,Moss and Sons,303.55,5/9/2025,Paid
+199,448,"Eaton, Carpenter and Gross",750.04,5/1/2025,Paid
+200,608,"Swanson, Sanchez and Clark",194.32,5/14/2025,Failed
+201,771,"Brooks, Thompson and Bender",729.44,5/29/2025,Paid
+202,595,Warner Ltd,559.89,1/14/2025,Paid
+203,225,"Hopkins, Peterson and Olson",564.44,2/25/2025,Paid
+204,825,Walters Ltd,560.31,1/28/2025,Paid
+205,930,Pruitt and Sons,393.7,6/14/2025,Paid
+206,994,James-Lucas,677.21,4/13/2025,Paid
+207,796,Lopez-Gregory,837.52,5/12/2025,Failed
+208,529,"Maldonado, Garcia and Sosa",40.91,4/19/2025,Paid
+209,281,"Peterson, Floyd and Elliott",197.03,3/25/2025,Paid
+210,361,Dougherty LLC,905.71,3/3/2025,Failed
+211,792,Pennington-Sullivan,657.43,2/12/2025,Paid
+212,534,Morgan Group,621.91,5/21/2025,Failed
+213,593,Miller-Brewer,250.56,1/22/2025,Paid
+214,743,Peters-Larson,437.85,2/16/2025,Paid
+215,691,Gross Inc,99.26,5/11/2025,Paid
+216,327,Hernandez and Sons,264.46,3/14/2025,Failed
+217,738,Hogan Group,75.89,3/19/2025,Paid
+218,835,Hall PLC,479.9,1/25/2025,Paid
+219,508,Dunn and Sons,489.9,3/22/2025,Paid
+220,741,Gallegos-White,567.42,4/18/2025,Failed
+221,580,Hunt and Sons,296.9,6/19/2025,Failed
+222,203,"Martinez, Johnson and Carter",786.59,1/15/2025,Failed
+223,387,Johnson Group,514.48,4/30/2025,Failed
+224,129,Rodriguez-Simpson,773.32,4/18/2025,Paid
+225,560,"Hickman, Henderson and Nash",935.68,4/30/2025,Failed
+226,934,Morris LLC,587.22,5/12/2025,Paid
+227,626,"Garcia, Howell and Lee",785.52,5/5/2025,Failed
+228,566,"Avila, Bernard and Bryant",293.88,5/17/2025,Failed
+229,285,"Carter, Patel and Lewis",753.29,4/14/2025,Paid
+230,922,Williams LLC,383.37,1/19/2025,Failed
+231,345,"Ellis, Cruz and Jones",118.81,1/5/2025,Paid
+232,725,Flowers and Sons,53.88,3/10/2025,Failed
+233,628,Powell-Russell,85.97,4/22/2025,Failed
+234,99,Nunez-Richardson,590.2,5/6/2025,Paid
+235,676,Reyes and Sons,694.99,5/31/2025,Paid
+236,943,"White, Esparza and Rodriguez",752.71,4/26/2025,Paid
+237,27,Smith Group,604.72,2/2/2025,Failed
+238,317,"Sanders, Willis and Wallace",355.77,3/6/2025,Paid
+239,882,Strickland-Weiss,810.55,2/2/2025,Failed
+240,235,"Marshall, Dyer and Silva",413.86,5/29/2025,Failed
+241,752,"Mendez, Jones and Robinson",613.3,3/5/2025,Failed
+242,752,Smith-Caldwell,49.83,4/12/2025,Paid
+243,504,Abbott-Pugh,252.6,2/22/2025,Paid
+244,145,"Lee, Ryan and Perez",252.51,2/16/2025,Paid
+245,430,"Shelton, Bauer and Tran",868.85,3/17/2025,Failed
+246,864,Thompson LLC,512.28,5/7/2025,Failed
+247,890,"Valdez, Dean and Bennett",961.33,3/30/2025,Paid
+248,727,Dean Inc,214.75,1/14/2025,Paid
+249,222,Bell Inc,640.63,5/16/2025,Paid
+250,144,"Hill, Armstrong and Sanders",525.64,4/9/2025,Failed
+251,65,"Moore, Mendoza and Scott",889.11,5/2/2025,Paid
+252,362,"Ayala, Good and Moody",945.64,3/17/2025,Failed
+253,691,Johnson LLC,454.26,3/22/2025,Failed
+254,899,"Blevins, Freeman and Martinez",156.25,6/3/2025,Paid
+255,73,Walker Ltd,905.09,3/1/2025,Failed
+256,768,Berger Ltd,330.83,2/10/2025,Failed
+257,251,Travis-Berger,762.27,5/14/2025,Failed
+258,913,Hamilton Ltd,820.41,1/10/2025,Paid
+259,90,Mendez LLC,319.7,3/2/2025,Paid
+260,245,Harvey-Erickson,990.72,1/15/2025,Paid
+261,920,Lindsey LLC,35.83,5/17/2025,Failed
+262,166,"Hill, James and Ball",974.51,4/6/2025,Paid
+263,837,Freeman-Dunlap,443.35,4/14/2025,Failed
+264,801,Brown-Turner,971.66,5/21/2025,Failed
+265,690,Johnson-Smith,833.91,5/27/2025,Paid
+266,241,Young-Huynh,817.76,2/7/2025,Paid
+267,522,Rodriguez PLC,805.14,5/7/2025,Paid
+268,722,"Hawkins, Snyder and Mitchell",429.13,3/29/2025,Failed
+269,733,Walton Group,110.83,1/13/2025,Paid
+270,940,"Jarvis, Holder and Dyer",63.64,5/16/2025,Paid
+271,513,"Harvey, Spencer and Camacho",170,3/14/2025,Paid
+272,724,"Neal, Lane and Benson",267.77,3/22/2025,Paid
+273,459,Johnson LLC,64.63,3/8/2025,Failed
+274,996,Hoffman Ltd,434.2,3/3/2025,Failed
+275,650,Garcia-Turner,559.15,1/5/2025,Failed
+276,657,Brown and Sons,796.69,6/3/2025,Paid
+277,189,"Edwards, Webb and Brown",764.3,1/25/2025,Failed
+278,582,Green and Sons,614.45,5/12/2025,Failed
+279,883,"Jones, Warren and Winters",916.47,1/13/2025,Paid
+280,215,Stokes Ltd,671.45,1/3/2025,Paid
+281,287,Moore-Lin,203.95,3/14/2025,Failed
+282,681,"Silva, Johnson and Cook",505.66,6/5/2025,Paid
+283,742,Clements Group,220.83,4/25/2025,Failed
+284,133,"Davis, Chang and Bullock",122.38,1/29/2025,Failed
+285,370,Taylor-Williams,85.02,2/28/2025,Paid
+286,825,Miranda and Sons,40.39,4/17/2025,Failed
+287,2,Berry-Long,84.32,2/8/2025,Failed
+288,114,"Marquez, Bolton and Evans",215.29,1/30/2025,Paid
+289,345,Hernandez-Brown,379.06,2/11/2025,Failed
+290,585,Smith Inc,317.39,1/3/2025,Paid
+291,739,Lewis Ltd,482.91,4/23/2025,Paid
+292,702,Ayala and Sons,687.34,6/15/2025,Paid
+293,612,"Lopez, Walsh and Lynn",960.89,6/13/2025,Failed
+294,774,"Scott, Adams and Thompson",863.41,3/23/2025,Failed
+295,134,Carter Inc,663.8,3/4/2025,Failed
+296,387,Burns PLC,799.01,2/13/2025,Paid
+297,728,Ross Group,532.28,6/7/2025,Failed
+298,733,Green-Martinez,562.65,3/7/2025,Failed
+299,503,Parks-Chan,435.05,1/30/2025,Failed
+300,940,"Khan, Jones and Brewer",383.64,4/29/2025,Paid
+301,223,Spencer Inc,510.1,2/25/2025,Failed
+302,673,Stout-Chaney,94.93,3/24/2025,Paid
+303,622,"Reyes, Jones and Moore",546.3,5/23/2025,Paid
+304,630,Nguyen Group,467.34,3/13/2025,Paid
+305,43,"Gutierrez, Williams and Moran",292.18,4/25/2025,Failed
+306,231,Hood-Ruiz,58.06,3/27/2025,Failed
+307,120,"Lindsey, Stanton and Prince",595.19,2/2/2025,Failed
+308,350,"Wright, Santos and Torres",744.48,6/10/2025,Failed
+309,952,Adams-Reynolds,519.61,1/11/2025,Paid
+310,661,"Ramirez, Vasquez and Williams",741.81,5/28/2025,Failed
+311,849,"King, Johns and Summers",729.71,6/9/2025,Failed
+312,117,Fisher and Sons,547.78,4/6/2025,Paid
+313,511,Copeland-Tyler,962.6,4/5/2025,Failed
+314,798,Patterson-Salazar,325.46,1/17/2025,Paid
+315,254,Sanders-Johnson,633.85,3/16/2025,Paid
+316,357,"Mcdonald, Watkins and Kaiser",878.85,4/11/2025,Failed
+317,523,Nguyen Group,344.82,1/29/2025,Paid
+318,929,Adams and Sons,577.35,3/17/2025,Failed
+319,245,"Rogers, Cunningham and Lopez",668.44,4/11/2025,Paid
+320,34,"Warren, Olson and Rasmussen",374.46,5/23/2025,Failed
+321,848,Brewer-Perkins,319.55,6/5/2025,Paid
+322,786,Rowland PLC,250.83,5/15/2025,Paid
+323,459,Humphrey-Williams,99.53,4/8/2025,Failed
+324,258,"Mcmillan, Page and Anderson",50.47,1/1/2025,Failed
+325,234,"Patterson, Jones and Castillo",526.23,3/17/2025,Failed
+326,918,Gibson LLC,466.96,1/1/2025,Paid
+327,56,Chapman PLC,744.1,1/31/2025,Paid
+328,787,"Walker, Frazier and Kelly",368.01,3/11/2025,Failed
+329,573,"Mora, Smith and Pitts",663.6,3/19/2025,Paid
+330,57,Ward-Carlson,693.05,5/5/2025,Failed
+331,368,"Dean, Drake and Klein",688.79,2/8/2025,Failed
+332,737,Matthews and Sons,349.84,6/3/2025,Paid
+333,690,Livingston Group,333.22,6/10/2025,Failed
+334,960,Wilkinson-Burns,764.13,5/4/2025,Paid
+335,461,Harris and Sons,763.67,2/16/2025,Failed
+336,467,Barrera-Sims,478.62,3/14/2025,Paid
+337,660,Vaughn Group,721.49,6/11/2025,Paid
+338,999,"Bell, Roberts and Maldonado",973.96,5/30/2025,Paid
+339,781,Orr LLC,926.49,5/9/2025,Paid
+340,467,"Thompson, Owens and Silva",784.03,5/30/2025,Paid
+341,948,Stewart Inc,291.69,2/16/2025,Failed
+342,507,Fields-Gordon,764.62,4/21/2025,Paid
+343,128,Leach-Andrews,786.65,3/11/2025,Failed
+344,413,Hughes Inc,123.54,4/23/2025,Failed
+345,376,"Jackson, Cole and Stephens",675.29,5/1/2025,Paid
+346,914,"Brock, Rodriguez and Ramirez",944.71,6/7/2025,Paid
+347,966,Gonzalez Group,889.97,6/9/2025,Failed
+348,566,Allen and Sons,438.97,1/6/2025,Failed
+349,84,Bond Group,531.38,3/3/2025,Failed
+350,974,King-Owens,287.95,5/12/2025,Failed
+351,130,Allen LLC,774.2,5/9/2025,Failed
+352,844,"Burke, Hunter and Anderson",948.27,2/6/2025,Failed
+353,61,"Perez, White and Lawrence",701.79,2/3/2025,Failed
+354,482,Williams PLC,100.52,4/16/2025,Paid
+355,121,"Goodwin, Smith and Good",512.04,3/22/2025,Failed
+356,798,"Johnson, Mitchell and Mitchell",33.5,6/14/2025,Paid
+357,161,"Wise, Hobbs and Roy",339.77,3/12/2025,Paid
+358,710,Frank LLC,299.56,4/12/2025,Failed
+359,230,Carpenter and Sons,790.11,4/21/2025,Paid
+360,475,"White, Obrien and Davis",259.39,1/30/2025,Failed
+361,861,"Bennett, Norman and Hernandez",388.68,1/2/2025,Failed
+362,792,"Scott, Taylor and Rivera",539.51,1/9/2025,Failed
+363,674,"Day, Chambers and Lynch",894.3,2/15/2025,Paid
+364,773,"Aguilar, Sparks and Yang",229.51,3/19/2025,Paid
+365,268,"Herrera, Pacheco and Everett",802.13,6/19/2025,Paid
+366,526,Wilcox-Shepard,982.96,5/21/2025,Failed
+367,453,"Beard, Carroll and Daniel",631.84,1/26/2025,Paid
+368,268,Allen-Bradford,415.86,1/12/2025,Paid
+369,291,Young Inc,477.77,4/21/2025,Failed
+370,876,"Blackwell, Diaz and Fuller",536.85,5/31/2025,Paid
+371,952,Vega and Sons,936.2,1/22/2025,Paid
+372,61,Smith Inc,111.38,4/7/2025,Failed
+373,787,Gibson PLC,978.04,6/9/2025,Paid
+374,140,Murphy-Chambers,262.51,5/24/2025,Failed
+375,945,Cain-Howe,370.13,3/13/2025,Failed
+376,836,"Jenkins, Figueroa and Contreras",384.15,1/20/2025,Paid
+377,171,Huang-Murphy,474.44,6/7/2025,Paid
+378,920,Marshall Ltd,820.54,5/21/2025,Paid
+379,23,Pena LLC,260.82,1/7/2025,Paid
+380,926,Flores LLC,763.75,1/22/2025,Failed
+381,203,"Lin, Cook and White",734.26,3/5/2025,Paid
+382,363,"Murphy, Waters and Smith",890.53,1/30/2025,Failed
+383,304,Gutierrez LLC,47.77,3/29/2025,Failed
+384,216,Sparks Inc,392.34,4/28/2025,Failed
+385,94,Matthews-Andersen,877.83,1/28/2025,Paid
+386,211,"Daniels, Schaefer and Parsons",141,3/22/2025,Failed
+387,265,Brown-Martin,127.04,1/16/2025,Paid
+388,117,"Williams, Adams and Simmons",600.04,2/6/2025,Paid
+389,656,Walker-Lucas,154.76,3/1/2025,Failed
+390,12,Becker-Kim,499.02,2/19/2025,Paid
+391,755,Lyons Inc,413.97,1/6/2025,Paid
+392,55,Mcdaniel PLC,788.38,5/26/2025,Failed
+393,893,Powers-Ramos,146.02,1/20/2025,Paid
+394,692,Hunter Group,323.11,2/3/2025,Paid
+395,663,Carpenter Group,867.32,1/27/2025,Failed
+396,670,"Padilla, Harris and Walker",986.61,6/18/2025,Paid
+397,767,Miller LLC,759.04,1/27/2025,Paid
+398,574,"Wood, Avila and Bradley",280.2,6/21/2025,Paid
+399,324,Rivera LLC,779.46,4/26/2025,Paid
+400,127,"Welch, Webster and Casey",835.87,1/11/2025,Paid
+401,987,"Avery, Whitehead and Perry",691.71,2/11/2025,Failed
+402,277,Mccormick Group,739.87,4/22/2025,Failed
+403,812,Robertson and Sons,707.74,3/17/2025,Failed
+404,872,Rasmussen-Hammond,830.49,4/21/2025,Failed
+405,215,Wilson-Cohen,449.82,1/25/2025,Failed
+406,549,Gomez-Pruitt,971.8,1/10/2025,Failed
+407,543,Clark-Page,144.71,6/2/2025,Failed
+408,62,"Rowe, Taylor and Bell",543.18,3/18/2025,Failed
+409,872,"Walsh, Williams and Mercer",619.8,5/4/2025,Failed
+410,991,Herman-Johnson,50.77,3/4/2025,Paid
+411,137,Anderson-Brown,210.96,4/2/2025,Failed
+412,608,Collier Group,245.39,3/1/2025,Failed
+413,524,Thomas Ltd,74.84,3/31/2025,Paid
+414,972,Carr PLC,676.27,3/27/2025,Failed
+415,897,Moore-Hawkins,651.94,2/2/2025,Paid
+416,345,"Smith, Palmer and Welch",47.46,6/7/2025,Failed
+417,324,Clark-Burton,64.66,4/19/2025,Failed
+418,734,Fitzpatrick Ltd,672.34,3/17/2025,Paid
+419,600,Stevenson-Hood,692.4,4/30/2025,Failed
+420,828,Johnson-Parsons,227.58,5/30/2025,Failed
+421,808,"Garcia, Wilson and Garrett",794.13,3/14/2025,Failed
+422,934,"Gray, Fox and Jordan",148.88,2/22/2025,Paid
+423,288,Sanchez Group,709.67,2/2/2025,Failed
+424,505,Estes Ltd,498.88,2/22/2025,Failed
+425,293,"Calderon, Clayton and Greene",783.03,3/10/2025,Failed
+426,580,Haynes LLC,402.71,4/1/2025,Paid
+427,35,Johnson-Hanson,320,2/20/2025,Failed
+428,827,Smith PLC,71.81,2/15/2025,Failed
+429,9,George-Smith,398.8,6/13/2025,Paid
+430,400,Fisher-Green,311.7,2/6/2025,Failed
+431,129,Neal Inc,961.08,2/3/2025,Failed
+432,373,"Hayden, Rivera and Floyd",810.1,2/5/2025,Paid
+433,509,Nguyen-Williams,473.38,1/25/2025,Paid
+434,805,Johnson Inc,888.25,3/18/2025,Failed
+435,925,Thomas-Smith,658.56,2/28/2025,Failed
+436,669,Lee LLC,808.37,5/19/2025,Paid
+437,597,Hicks-Elliott,118.66,2/28/2025,Paid
+438,23,Perez-Beard,888.23,4/19/2025,Failed
+439,25,Boyd-Fisher,478.43,3/13/2025,Failed
+440,260,Sosa LLC,813.63,4/28/2025,Failed
+441,749,Rogers LLC,214.15,2/13/2025,Failed
+442,45,"Matthews, Sanders and Matthews",110.73,3/12/2025,Failed
+443,62,"Hall, Willis and Carter",582.03,4/25/2025,Paid
+444,145,Dominguez LLC,845.56,1/2/2025,Failed
+445,480,Wilson-Harris,50.46,5/14/2025,Paid
+446,407,Conner-Jackson,953.16,2/2/2025,Failed
+447,685,"Bishop, Hernandez and Cordova",939.31,4/14/2025,Paid
+448,724,"Henry, Schneider and Turner",487.39,6/9/2025,Paid
+449,128,"Aguilar, Bautista and Lambert",691.92,4/16/2025,Paid
+450,223,Stark Ltd,149.06,4/22/2025,Paid
+451,665,"Brooks, Sherman and Holt",828.73,3/8/2025,Failed
+452,253,Spears Inc,680.51,5/4/2025,Failed
+453,971,"Rogers, Meadows and Perez",282.09,3/15/2025,Paid
+454,471,Jackson-Smith,565.67,2/3/2025,Failed
+455,160,Montgomery LLC,691.97,1/13/2025,Paid
+456,438,Mcknight Group,108.99,5/10/2025,Failed
+457,606,Barajas-Mcknight,912.12,5/30/2025,Failed
+458,744,Frye-Harper,277.31,1/22/2025,Failed
+459,620,Smith-Jacobs,704.68,2/9/2025,Failed
+460,729,"Garner, Huff and Moreno",630.72,3/29/2025,Failed
+461,751,"Allen, Mckenzie and Valdez",516.93,1/5/2025,Paid
+462,178,Davis LLC,459.65,4/2/2025,Paid
+463,744,Brown-Barrera,127.01,2/23/2025,Failed
+464,698,Mack-Gomez,733.32,1/5/2025,Paid
+465,450,Taylor Group,734.76,5/14/2025,Paid
+466,136,Simpson-Schmitt,853.01,2/10/2025,Failed
+467,924,"Castro, Pacheco and Hart",43.2,2/7/2025,Paid
+468,615,Green-Thompson,965.69,1/25/2025,Failed
+469,884,"White, Baker and Dunn",672.35,5/6/2025,Paid
+470,488,Nelson and Sons,399.71,6/2/2025,Failed
+471,419,Hamilton Inc,919.76,1/4/2025,Failed
+472,728,Butler-Mills,49.79,3/15/2025,Failed
+473,42,"Carr, Hernandez and Snow",292.6,4/8/2025,Failed
+474,345,"Chandler, Clayton and Robbins",670.5,1/3/2025,Paid
+475,83,Brown Inc,180.1,4/22/2025,Failed
+476,237,Yates-Vega,514.55,5/23/2025,Paid
+477,988,Abbott-Bryan,35.59,5/9/2025,Paid
+478,961,Dunn Ltd,153.14,3/17/2025,Paid
+479,545,Mitchell LLC,724.09,5/30/2025,Paid
+480,39,"Gordon, Beck and Allen",487.29,4/22/2025,Failed
+481,696,Hobbs-Turner,643.7,3/2/2025,Failed
+482,174,Gonzalez Group,797.28,5/10/2025,Paid
+483,453,Walker Ltd,784.25,1/28/2025,Failed
+484,503,Henderson and Sons,491.89,2/1/2025,Failed
+485,187,Roy-Kelly,222.15,5/30/2025,Paid
+486,326,Olson-Weber,705.23,2/27/2025,Paid
+487,933,Edwards Group,756.97,6/12/2025,Failed
+488,199,Russo and Sons,736.78,2/26/2025,Paid
+489,733,"King, Myers and Alvarado",451.66,4/14/2025,Paid
+490,623,Rodriguez and Sons,429.87,3/18/2025,Paid
+491,82,"Ferguson, Dunlap and Oconnor",828.37,6/20/2025,Failed
+492,123,Jenkins PLC,60.24,1/18/2025,Paid
+493,389,Rosario-Robinson,21.39,6/7/2025,Failed
+494,775,Jackson and Sons,181.83,5/7/2025,Failed
+495,199,"Luna, Turner and Hahn",896.15,1/17/2025,Failed
+496,977,Turner Ltd,996.74,4/8/2025,Failed
+497,980,"Caldwell, Larson and Thomas",879.66,3/28/2025,Failed
+498,995,Cox Group,794.27,1/6/2025,Failed
+499,222,Luna LLC,877.09,2/8/2025,Paid
+500,370,Wall Inc,904.55,3/10/2025,Failed
+501,255,"Abbott, Rodriguez and Willis",129.17,2/20/2025,Paid
+502,365,"Romero, Rivera and Woods",197.88,2/17/2025,Paid
+503,68,Roth PLC,564.99,2/26/2025,Paid
+504,32,Lamb-Wilson,671.96,1/14/2025,Failed
+505,53,"Gray, Shaw and Simpson",486.78,2/20/2025,Paid
+506,862,Palmer Ltd,248.28,4/26/2025,Failed
+507,871,"Ramirez, Lowe and Taylor",833.01,2/11/2025,Paid
+508,108,"Simpson, Wright and Reed",982.76,3/11/2025,Failed
+509,198,"Mejia, Todd and Cantu",891.31,3/25/2025,Failed
+510,964,Roberts-Smith,103.92,1/22/2025,Failed
+511,530,"Cunningham, Newman and Lewis",353.09,3/16/2025,Paid
+512,701,"Sanchez, Stephens and Wang",696.52,2/5/2025,Failed
+513,622,"Harris, Singh and Rojas",646.12,5/8/2025,Paid
+514,539,Steele-Fuentes,166.39,6/2/2025,Paid
+515,1,Shaw Ltd,615.35,2/17/2025,Failed
+516,155,Cain LLC,189.37,3/9/2025,Failed
+517,88,Cox PLC,873.98,1/28/2025,Paid
+518,535,"Winters, Jackson and Mitchell",592.66,4/17/2025,Failed
+519,356,"Allen, Garrett and Moore",196.39,1/24/2025,Failed
+520,584,"Medina, Rodriguez and Mcdonald",425.26,4/22/2025,Paid
+521,135,Patton Group,249.89,2/21/2025,Paid
+522,833,Jackson Group,341.3,4/18/2025,Failed
+523,969,Newton and Sons,363.76,1/28/2025,Failed
+524,370,Nelson Ltd,456.57,2/7/2025,Paid
+525,203,Olson PLC,184,5/21/2025,Paid
+526,839,Edwards Group,937.23,1/12/2025,Paid
+527,814,Lozano-Martinez,445.27,6/4/2025,Paid
+528,908,Gray-Lopez,612.91,3/20/2025,Paid
+529,477,Richards LLC,349.5,3/16/2025,Paid
+530,978,"Rodriguez, Gray and Bell",799.39,2/19/2025,Failed
+531,125,Clark Group,947.88,1/31/2025,Paid
+532,49,Russo-Brown,454.83,2/22/2025,Failed
+533,506,May Group,656.63,4/2/2025,Failed
+534,333,Griffin-Duran,353.86,1/11/2025,Failed
+535,973,Hicks LLC,991.07,6/19/2025,Failed
+536,589,Thompson-Stevens,758,5/6/2025,Failed
+537,344,Oliver PLC,62.23,3/11/2025,Failed
+538,181,Gardner-Montoya,903.23,1/5/2025,Failed
+539,423,Ortiz PLC,629.58,1/27/2025,Failed
+540,132,Cook-Buck,456.41,4/24/2025,Failed
+541,979,Rodriguez Inc,352.33,1/30/2025,Paid
+542,295,"Dunn, Scott and Richmond",771.83,5/7/2025,Paid
+543,41,"Perkins, Herman and Jefferson",322.3,1/11/2025,Paid
+544,667,Pierce Ltd,562.37,3/5/2025,Failed
+545,936,"Green, Alvarez and Pollard",65.07,1/15/2025,Failed
+546,929,"Wise, Kidd and Briggs",413.34,2/19/2025,Paid
+547,499,"Reyes, Fisher and Archer",879.21,3/30/2025,Failed
+548,679,"Bryant, Peters and Shields",209.51,2/21/2025,Failed
+549,620,Taylor Group,872.42,1/26/2025,Failed
+550,110,Larson-Sullivan,437.23,1/16/2025,Failed
+551,460,Hughes and Sons,271.28,6/2/2025,Paid
+552,453,Collier PLC,564.79,5/26/2025,Failed
+553,578,Alvarez-Rivera,520.53,2/7/2025,Failed
+554,546,"Herrera, Kennedy and Sanders",328.37,5/6/2025,Failed
+555,636,"Jones, Montgomery and Nunez",93.87,4/26/2025,Paid
+556,56,Christian-Mitchell,407.39,1/15/2025,Failed
+557,469,Williams-Gentry,648.28,5/16/2025,Failed
+558,297,Waller-Lee,950.63,5/8/2025,Failed
+559,640,Bryant-Wilson,251.43,5/3/2025,Failed
+560,551,Henderson-Hobbs,618.93,4/29/2025,Failed
+561,222,"Huynh, Mccarty and Fields",465.42,5/9/2025,Paid
+562,75,Davis-Murphy,967.67,5/8/2025,Failed
+563,589,Cole-Ryan,228.51,2/15/2025,Paid
+564,442,Lopez-Weber,745.72,1/8/2025,Failed
+565,693,Deleon LLC,676.59,1/22/2025,Paid
+566,949,Keith Inc,895.98,3/23/2025,Paid
+567,959,Scott LLC,449.77,1/20/2025,Paid
+568,277,"Prince, Arnold and Brown",451.59,5/4/2025,Failed
+569,41,"Jones, Mccullough and Norris",492.82,5/13/2025,Paid
+570,399,Ho Group,357.67,1/24/2025,Failed
+571,383,"Garcia, Thomas and Atkinson",406.03,2/18/2025,Paid
+572,443,Owens-Sutton,901.94,6/5/2025,Paid
+573,776,Frederick LLC,69.17,5/15/2025,Paid
+574,685,Barrett-Green,969.65,5/8/2025,Paid
+575,481,Jensen-Oneal,953.77,5/7/2025,Failed
+576,795,Griffith Inc,506.39,6/4/2025,Paid
+577,373,"Singh, Marks and Nichols",401.6,4/27/2025,Failed
+578,190,Smith LLC,989.23,1/23/2025,Paid
+579,874,"Costa, Herrera and Harrell",264.18,6/2/2025,Paid
+580,566,"Boyer, Jackson and Perez",784.82,2/13/2025,Failed
+581,676,"Miller, Brown and Carter",515.83,1/19/2025,Failed
+582,807,Rowe Inc,595.24,6/7/2025,Failed
+583,240,"Anderson, Ferguson and Moore",159.02,1/2/2025,Failed
+584,186,"Wright, Neal and Wade",353.61,1/22/2025,Failed
+585,390,Wagner-Berg,39.33,3/19/2025,Paid
+586,897,Morales Group,874.87,2/28/2025,Failed
+587,831,"Bonilla, Gallagher and Brooks",546.94,1/22/2025,Failed
+588,670,Griffin-Walton,613.63,5/23/2025,Paid
+589,32,Harrington Group,218.14,4/29/2025,Failed
+590,75,"Duke, Phillips and Cuevas",824.73,3/21/2025,Paid
+591,842,Davis-Green,644.14,3/27/2025,Failed
+592,670,"Hudson, Henry and Webster",205.27,4/6/2025,Failed
+593,445,Waters-Perez,737.63,5/14/2025,Failed
+594,632,Robinson-Smith,892.22,5/20/2025,Failed
+595,887,"Curry, Franklin and Brown",725.72,5/14/2025,Failed
+596,836,Saunders-Bryant,965.97,2/18/2025,Failed
+597,821,Adams-Williamson,62.64,4/9/2025,Paid
+598,26,Tucker and Sons,508.75,6/1/2025,Failed
+599,102,Davis-Richard,834.93,3/4/2025,Paid
+600,254,"Johnson, Evans and Cummings",874.44,1/17/2025,Paid
+601,53,Sparks Group,788.26,1/24/2025,Paid
+602,748,"Miller, Hunter and Reed",870.33,4/2/2025,Failed
+603,317,Luna-Maynard,893.9,2/13/2025,Failed
+604,202,Kelly LLC,399.77,3/15/2025,Failed
+605,85,Richardson and Sons,667.11,2/16/2025,Failed
+606,245,Price Group,513.66,1/17/2025,Failed
+607,448,"Torres, Stanton and Martinez",202.73,4/30/2025,Paid
+608,929,Brown LLC,370.63,6/14/2025,Failed
+609,725,Davis Group,500,2/7/2025,Failed
+610,853,Hernandez-Jones,26.09,1/31/2025,Failed
+611,262,Reed-Orr,972.79,2/13/2025,Failed
+612,440,Gonzalez-Salinas,139.5,4/4/2025,Paid
+613,298,Black-Mendez,765.11,4/18/2025,Failed
+614,315,"Ashley, Reynolds and Baker",85.73,3/29/2025,Paid
+615,501,Scott Ltd,515.79,6/11/2025,Paid
+616,643,"Cannon, Goodman and Farrell",82.25,4/17/2025,Paid
+617,744,Bush-Collins,739.33,1/12/2025,Failed
+618,178,Randolph Ltd,429.9,2/9/2025,Failed
+619,703,"Smith, Armstrong and Leon",580.51,4/14/2025,Paid
+620,649,Benton PLC,177.81,1/27/2025,Paid
+621,731,Hale-Ross,234.43,1/1/2025,Paid
+622,126,Howe and Sons,327.76,5/3/2025,Paid
+623,15,"Larson, Contreras and Fernandez",471.81,4/10/2025,Paid
+624,217,Ford-Knight,863.94,2/17/2025,Paid
+625,678,Jackson Ltd,702.12,1/19/2025,Failed
+626,736,Newton Inc,287.64,4/25/2025,Failed
+627,946,"Obrien, Coffey and Bryant",784.95,6/18/2025,Failed
+628,465,Johnson-Lopez,925.19,5/5/2025,Failed
+629,73,Walker-Holland,376.11,5/5/2025,Failed
+630,114,"Howard, Mcgee and Tate",739.41,3/10/2025,Failed
+631,666,Dalton-Velasquez,701.82,4/6/2025,Failed
+632,8,Herrera-Barrera,310.77,3/9/2025,Failed
+633,562,Allen-Barton,597.31,2/21/2025,Paid
+634,591,Barnes Group,102.83,1/8/2025,Paid
+635,412,"Hanna, Jones and Andrews",691.91,3/10/2025,Failed
+636,380,Garcia-Short,451.37,2/16/2025,Failed
+637,504,"Rios, Cruz and Mcdonald",922.21,6/11/2025,Failed
+638,770,Harrison LLC,818.3,2/28/2025,Failed
+639,837,Jones-Richmond,484.36,4/19/2025,Failed
+640,395,Silva LLC,412.85,5/17/2025,Failed
+641,493,Doyle and Sons,973.21,2/11/2025,Paid
+642,576,Byrd-Payne,365.73,5/31/2025,Paid
+643,513,"Snyder, Taylor and Anderson",677.79,5/9/2025,Failed
+644,871,Lopez-Cochran,647.95,1/2/2025,Failed
+645,319,"Williams, Mcdonald and Sanchez",342.94,6/2/2025,Failed
+646,949,Walsh Group,201.34,1/27/2025,Failed
+647,373,"Robinson, Wood and Johnson",80.78,1/28/2025,Failed
+648,542,"Turner, Johnson and Delgado",151.67,4/20/2025,Failed
+649,148,Fisher Ltd,478.66,1/11/2025,Failed
+650,759,Morgan-Howell,290.36,1/4/2025,Paid
+651,6,Williams LLC,442.5,2/5/2025,Failed
+652,709,Ward-Johnson,59.78,1/10/2025,Paid
+653,610,"Clements, Ramos and Reeves",830.33,1/29/2025,Failed
+654,803,Blankenship-Lewis,685.85,4/6/2025,Failed
+655,804,Gomez Group,691.86,2/2/2025,Paid
+656,64,"Scott, Clark and Shaffer",392.31,5/21/2025,Failed
+657,144,Moore-Coleman,319.18,5/30/2025,Failed
+658,208,Crawford LLC,592.47,1/3/2025,Paid
+659,167,Rojas-Phelps,804.1,1/5/2025,Paid
+660,264,"Barr, Brown and Jackson",262.23,1/11/2025,Paid
+661,92,Davis PLC,553.11,1/25/2025,Paid
+662,581,Ferrell PLC,824.35,5/26/2025,Paid
+663,248,Ortiz-Oconnell,824.38,4/4/2025,Paid
+664,112,"Perez, Hernandez and Steele",923.34,2/7/2025,Failed
+665,685,Avila Group,41.02,3/30/2025,Failed
+666,258,"Taylor, Burns and Hinton",511.73,1/24/2025,Failed
+667,352,Moore and Sons,532.61,3/12/2025,Failed
+668,381,"Hudson, Rodriguez and Moran",150.76,3/12/2025,Failed
+669,365,Stanton-Bishop,170.41,4/27/2025,Failed
+670,107,"Ibarra, Rose and Thompson",356.73,5/11/2025,Failed
+671,198,Avila-Morris,423.83,6/17/2025,Failed
+672,959,Thomas-Garcia,267.89,6/17/2025,Failed
+673,725,Hendrix and Sons,954.62,5/5/2025,Paid
+674,325,Hamilton-White,91.4,4/2/2025,Failed
+675,981,Robinson-Smith,580.43,5/25/2025,Paid
+676,666,"Nguyen, Waters and Sanford",511.64,4/24/2025,Paid
+677,673,Burch-Anderson,256.71,5/1/2025,Failed
+678,993,Smith PLC,409.47,3/14/2025,Failed
+679,936,"Smith, Horne and Nelson",625.28,2/21/2025,Paid
+680,673,Roberts PLC,987.27,1/29/2025,Failed
+681,728,"Watson, Davis and Watkins",887.52,3/12/2025,Failed
+682,681,"Smith, Chapman and Vega",265.33,2/6/2025,Failed
+683,670,Fleming and Sons,543.21,5/13/2025,Paid
+684,335,"Armstrong, Anderson and Hatfield",945.66,1/13/2025,Failed
+685,926,Sanchez-Lucas,64.99,3/11/2025,Paid
+686,615,"Nelson, Garcia and Long",622.43,5/17/2025,Paid
+687,794,Mueller-Miles,825.79,5/21/2025,Failed
+688,133,Barber LLC,278.46,1/26/2025,Failed
+689,957,Brown-Browning,610.7,4/2/2025,Failed
+690,432,Kim-Chavez,709.61,4/7/2025,Paid
+691,607,Edwards PLC,212.01,5/26/2025,Failed
+692,141,Greene-Holt,442.98,2/5/2025,Failed
+693,857,Meyer-Chung,134.58,4/8/2025,Failed
+694,196,"Lewis, Johnson and Young",445.42,4/29/2025,Paid
+695,93,"Payne, Gomez and Cooper",816.4,4/9/2025,Paid
+696,135,Alexander-Lawrence,661.88,4/25/2025,Failed
+697,833,"Miller, Berry and Burke",95.54,4/17/2025,Paid
+698,696,Moore Ltd,790.89,5/30/2025,Failed
+699,877,Nelson PLC,725.89,2/3/2025,Paid
+700,857,Mathis Ltd,28.85,2/13/2025,Failed
+701,163,Ellis and Sons,118.84,1/2/2025,Paid
+702,128,Meyer-Holden,780.33,1/8/2025,Failed
+703,653,Green Group,93.73,2/6/2025,Paid
+704,650,Holland and Sons,288.54,2/4/2025,Failed
+705,749,Anderson LLC,800.58,3/29/2025,Paid
+706,847,Allen PLC,318.65,5/27/2025,Failed
+707,428,"Richard, Brock and Hoffman",694.86,2/20/2025,Paid
+708,37,Phillips-Webb,111.97,3/6/2025,Failed
+709,436,"Hicks, Mcbride and Horton",419.87,3/17/2025,Paid
+710,617,"Hamilton, Gutierrez and Lopez",227.89,1/9/2025,Failed
+711,38,King Inc,531.49,6/8/2025,Failed
+712,194,"Stephens, Hoffman and Henderson",737.16,4/2/2025,Failed
+713,132,Anderson Group,336.57,1/29/2025,Paid
+714,978,Davis-Hampton,290.98,1/20/2025,Paid
+715,55,Becker LLC,650.34,3/17/2025,Failed
+716,321,Porter-Ward,945.51,4/23/2025,Failed
+717,68,"Saunders, Thornton and Thompson",679.11,2/8/2025,Paid
+718,63,Campbell PLC,158.32,1/10/2025,Failed
+719,542,Hayes-Michael,311.58,3/31/2025,Failed
+720,51,"Parks, Rodriguez and Parker",498.1,1/2/2025,Failed
+721,15,"Nguyen, Morris and Schmidt",764.77,4/8/2025,Paid
+722,756,"Watson, Decker and Sanchez",869.78,1/11/2025,Paid
+723,528,Parker-Parks,73.03,5/21/2025,Failed
+724,26,"Bailey, Koch and Martinez",156.92,4/6/2025,Failed
+725,5,May-Riley,316.23,4/29/2025,Paid
+726,89,Campos-King,43.57,4/10/2025,Paid
+727,480,"Smith, Ortiz and Flores",494.53,3/7/2025,Paid
+728,242,English Ltd,684.12,5/15/2025,Paid
+729,962,"Perkins, Garner and Hughes",930.04,3/22/2025,Failed
+730,487,"Ramirez, Perez and Bennett",637.01,5/3/2025,Paid
+731,502,Yang-Yoder,447.44,3/23/2025,Failed
+732,264,Keith-Gill,452.02,1/29/2025,Paid
+733,449,Gibson LLC,144.73,6/12/2025,Failed
+734,488,Hobbs LLC,948.07,2/7/2025,Failed
+735,329,White-Brewer,323.78,6/11/2025,Paid
+736,296,Swanson-Bauer,478.79,2/20/2025,Paid
+737,185,Rios-Carey,910.95,4/19/2025,Failed
+738,439,Jones and Sons,123.64,5/7/2025,Paid
+739,595,"Reyes, White and Davis",232.81,2/12/2025,Paid
+740,622,Marshall Inc,280.93,4/20/2025,Failed
+741,725,Walker and Sons,69.98,5/14/2025,Paid
+742,985,Burke-Randall,87.59,1/19/2025,Paid
+743,957,Ponce-Patton,648.83,1/11/2025,Paid
+744,906,"Cisneros, Gonzales and Lozano",269.59,3/1/2025,Paid
+745,652,"Wilson, Hayes and Barber",264.57,6/11/2025,Paid
+746,448,Mata-Hooper,174.45,6/6/2025,Failed
+747,517,Thompson-Schultz,197.32,1/31/2025,Failed
+748,832,"Wilson, Reed and Hernandez",457.53,2/11/2025,Paid
+749,221,"Williams, Ramirez and Obrien",710.76,2/4/2025,Paid
+750,852,"Jacobson, Anderson and King",148.97,6/6/2025,Paid
+751,227,Martin-Kennedy,460.92,3/22/2025,Paid
+752,706,Jones Inc,608.5,4/23/2025,Paid
+753,453,Henderson-Fleming,359.7,4/20/2025,Paid
+754,581,Kirk-Diaz,702.88,3/22/2025,Failed
+755,323,"Williams, White and Maddox",472.72,5/1/2025,Paid
+756,972,Wood-Robinson,302.07,6/10/2025,Paid
+757,87,Duncan-Ferrell,793.98,5/14/2025,Paid
+758,432,Hall-Lambert,941.6,2/16/2025,Paid
+759,182,Sanchez and Sons,52.92,4/17/2025,Failed
+760,877,"Hickman, Powell and Davis",660.38,3/1/2025,Failed
+761,613,Lewis-Martinez,107.07,3/22/2025,Paid
+762,735,Sanchez and Sons,290.58,3/11/2025,Failed
+763,195,"Singleton, Erickson and Boyd",406,6/5/2025,Paid
+764,402,Stone and Sons,281.7,6/5/2025,Failed
+765,216,Adkins-Ray,827.24,2/2/2025,Failed
+766,603,"Ortiz, Rosales and Craig",111.05,5/29/2025,Paid
+767,161,Roman-Bishop,696.22,1/23/2025,Paid
+768,647,Ruiz Ltd,75.25,3/22/2025,Paid
+769,170,Kelly-Cook,921.45,4/9/2025,Failed
+770,408,Martin-Jones,723.45,6/12/2025,Paid
+771,327,Gonzales Group,174.07,4/1/2025,Paid
+772,868,"Smith, Harris and Mercado",634.66,4/5/2025,Failed
+773,944,"Stevenson, Bell and Robinson",554.46,5/8/2025,Failed
+774,109,Santiago-Payne,75.25,5/17/2025,Paid
+775,193,Pierce Inc,549.6,4/16/2025,Failed
+776,224,Hansen-Blevins,58.7,5/28/2025,Paid
+777,603,Scott-Grant,62.52,5/3/2025,Paid
+778,682,Smith-Riggs,434.54,2/22/2025,Paid
+779,351,Thompson-Vance,524.19,4/10/2025,Failed
+780,661,Nunez Inc,958.19,3/24/2025,Failed
+781,906,Martin-Bell,344.09,4/29/2025,Failed
+782,379,"Riley, Moore and Carter",560.5,6/2/2025,Paid
+783,491,"Chavez, Moore and Murray",182.38,4/29/2025,Failed
+784,988,"Ford, Ali and May",473.27,6/19/2025,Paid
+785,248,Robertson PLC,303.51,3/11/2025,Failed
+786,654,Lambert-Jackson,232.27,5/22/2025,Paid
+787,729,"Mendez, Wagner and Shea",301.3,5/12/2025,Failed
+788,363,"Palmer, Walsh and Smith",655.54,1/5/2025,Failed
+789,877,"Mcfarland, Nichols and Frederick",866.59,5/27/2025,Failed
+790,961,Blackburn-Campbell,825.87,4/25/2025,Paid
+791,343,Henderson Ltd,310.75,1/25/2025,Failed
+792,753,"Mendoza, Smith and Jensen",216.68,5/22/2025,Paid
+793,477,Schwartz-Davis,326.36,2/2/2025,Paid
+794,322,"Mccarthy, Jones and Mitchell",973.41,2/14/2025,Paid
+795,838,Galloway Ltd,989.55,5/20/2025,Failed
+796,111,"Curry, Price and Reese",791.86,1/6/2025,Failed
+797,406,Moore Group,577.5,3/22/2025,Failed
+798,368,Freeman PLC,709.56,5/7/2025,Failed
+799,936,Blackwell-Powell,588.32,1/11/2025,Failed
+800,809,Williams-Wise,423.6,6/21/2025,Paid
+801,805,Coleman-Morales,930.04,4/19/2025,Paid
+802,723,Brock Ltd,234.55,3/9/2025,Failed
+803,158,Klein LLC,198.69,2/12/2025,Failed
+804,755,Rodriguez Inc,286.61,2/16/2025,Failed
+805,653,Mcgrath Group,156.88,2/18/2025,Paid
+806,578,"Gaines, Beck and Williams",176.56,6/3/2025,Paid
+807,334,Boyd-Villanueva,110.73,3/6/2025,Failed
+808,347,Simmons-Jefferson,366.06,2/15/2025,Failed
+809,860,"Bates, Williams and Jones",725.94,3/4/2025,Failed
+810,657,Dixon PLC,147.85,2/19/2025,Failed
+811,407,"Peterson, Wilson and Poole",424.95,3/20/2025,Failed
+812,72,"Schneider, Johnson and Santos",299.05,2/21/2025,Failed
+813,315,"Lee, Farmer and Davis",229.72,4/28/2025,Paid
+814,634,Dominguez and Sons,849.33,5/10/2025,Paid
+815,559,Edwards PLC,95.93,3/25/2025,Failed
+816,159,Cruz-Hall,195.36,1/10/2025,Paid
+817,125,Black-Norman,35.82,4/10/2025,Paid
+818,371,"Miranda, Day and Gill",645.61,5/21/2025,Paid
+819,319,Smith LLC,894.64,3/4/2025,Paid
+820,621,Le LLC,169.77,4/18/2025,Failed
+821,34,Mcdonald Ltd,105.21,3/11/2025,Failed
+822,582,"Jones, Bautista and Clark",406.24,5/1/2025,Paid
+823,571,"Myers, Lee and Webster",275.09,3/25/2025,Failed
+824,825,Wilson-Spencer,443.87,1/1/2025,Failed
+825,203,Davis-Olson,611.39,3/4/2025,Failed
+826,552,Mason-Morales,935.16,3/30/2025,Failed
+827,770,Davis-Garza,508.85,4/22/2025,Failed
+828,704,Smith-Booker,631.23,5/3/2025,Paid
+829,974,Foster-Hill,977.45,6/3/2025,Paid
+830,319,"Reynolds, Garcia and Robinson",317.38,1/14/2025,Failed
+831,402,"Fletcher, Dean and Caldwell",389.74,2/19/2025,Failed
+832,705,"Bruce, Shepard and Solis",570.77,2/21/2025,Failed
+833,952,"Ochoa, Smith and Davis",690.6,3/28/2025,Paid
+834,697,Pierce-Hubbard,968.4,6/11/2025,Failed
+835,216,"Jones, Romero and Duran",527.68,4/13/2025,Paid
+836,900,Stark PLC,688.63,1/9/2025,Failed
+837,928,"Merritt, Kim and Arellano",734.2,5/16/2025,Failed
+838,344,"Wallace, Rose and Buchanan",587.7,5/23/2025,Failed
+839,807,"Bryan, Jordan and Melton",640.55,5/9/2025,Paid
+840,585,"Gill, Rogers and Cabrera",487.19,6/19/2025,Paid
+841,387,Campbell LLC,392.72,6/1/2025,Paid
+842,216,"Miller, Daugherty and Foley",811.05,3/2/2025,Paid
+843,336,Guzman and Sons,458.97,5/12/2025,Paid
+844,500,Jimenez PLC,260.15,6/6/2025,Failed
+845,736,"Vargas, Bean and Mason",831.35,1/7/2025,Failed
+846,944,Hartman-Guzman,549.49,3/12/2025,Paid
+847,485,Weaver Inc,961.72,3/7/2025,Failed
+848,479,Smith-Mahoney,193.3,2/19/2025,Paid
+849,260,"Brooks, Mahoney and Hoover",645.27,4/7/2025,Failed
+850,427,Schneider-Morgan,409.8,1/10/2025,Paid
+851,362,Wells and Sons,118.13,5/31/2025,Failed
+852,614,Blackburn-Stevens,734.29,1/25/2025,Failed
+853,90,Mercado-Parker,555.91,2/28/2025,Failed
+854,891,"Andrews, Rodriguez and Bullock",522.94,6/16/2025,Paid
+855,515,Phelps-Arnold,817.48,3/8/2025,Failed
+856,776,Booker-Long,744.05,4/11/2025,Failed
+857,966,Russell-Hatfield,980.25,1/10/2025,Paid
+858,279,Hall-Acosta,972.43,2/20/2025,Failed
+859,911,Murphy PLC,38.63,2/17/2025,Paid
+860,697,Greene-Mcguire,936.44,1/3/2025,Failed
+861,86,Shah Ltd,529.74,4/4/2025,Failed
+862,637,"Kramer, Gonzalez and Smith",713.13,6/21/2025,Failed
+863,820,"Daniel, Clark and Wilson",104.94,1/26/2025,Failed
+864,280,Mitchell-Scott,66.11,4/30/2025,Paid
+865,713,"Lewis, Chapman and Torres",662.66,5/17/2025,Paid
+866,558,Bailey-Martin,262.62,2/6/2025,Paid
+867,125,Garcia-Miller,407.14,1/7/2025,Paid
+868,275,"Butler, Lewis and Rojas",479.54,2/23/2025,Paid
+869,824,Lin-Nunez,152.52,1/4/2025,Paid
+870,506,Townsend and Sons,966.25,5/3/2025,Paid
+871,647,"Stewart, Lowe and Becker",970.34,2/15/2025,Paid
+872,94,"Morgan, Johnson and English",780.38,1/19/2025,Paid
+873,164,Craig-Andrews,931.77,1/22/2025,Paid
+874,79,"Wells, Boyer and Griffith",397.84,1/6/2025,Paid
+875,514,"Henderson, Lawrence and Santiago",769.09,2/3/2025,Paid
+876,32,Beck-Torres,25.79,4/24/2025,Paid
+877,247,Stout-Hensley,588.34,1/10/2025,Failed
+878,156,Romero Inc,231.92,6/20/2025,Paid
+879,249,Webb Inc,817.41,3/2/2025,Failed
+880,653,Buchanan-Schmitt,764.66,5/30/2025,Paid
+881,696,Cook-Brown,85.24,3/20/2025,Paid
+882,608,Castro and Sons,562.25,4/4/2025,Paid
+883,172,Roberts Group,495.33,3/2/2025,Paid
+884,251,Wilson-Mckay,139.75,5/21/2025,Failed
+885,496,Contreras Group,203.55,6/14/2025,Paid
+886,188,Case-Steele,629.98,2/27/2025,Paid
+887,920,"Mosley, Stokes and Goodwin",851.21,2/5/2025,Paid
+888,101,Williams LLC,669.82,3/19/2025,Failed
+889,498,Hunt PLC,642.89,4/17/2025,Failed
+890,926,Hawkins-Forbes,583.79,4/25/2025,Paid
+891,8,Soto Group,705.17,3/29/2025,Paid
+892,672,Boyd-Anderson,590.2,2/23/2025,Paid
+893,975,Thomas-Stewart,473.66,3/4/2025,Failed
+894,864,Conrad Inc,960.29,1/25/2025,Paid
+895,841,Frey LLC,762.61,5/1/2025,Failed
+896,871,Carter-Kelly,322.73,4/13/2025,Paid
+897,264,Stone-Thomas,991.36,1/29/2025,Failed
+898,117,King-Morales,385.26,3/5/2025,Paid
+899,321,"Ward, Vaughn and Tyler",298.98,5/6/2025,Failed
+900,312,Young PLC,446.66,5/31/2025,Paid
+901,117,Smith LLC,475.89,5/4/2025,Paid
+902,920,"Perry, Sandoval and Bradley",721.22,6/1/2025,Failed
+903,12,Henderson and Sons,150.71,5/2/2025,Paid
+904,546,Thomas-Chavez,968.02,2/6/2025,Paid
+905,865,Larsen-Werner,269.43,1/30/2025,Paid
+906,639,"Morris, Vasquez and Lopez",252.67,3/8/2025,Paid
+907,882,"Merritt, Clayton and Moore",872.18,1/19/2025,Paid
+908,290,Payne-Farrell,634.56,6/18/2025,Paid
+909,184,Jackson Ltd,840.63,5/6/2025,Paid
+910,116,"Stevens, Hutchinson and Hodge",392.83,6/17/2025,Paid
+911,26,"Snow, Chang and Nelson",387.16,4/7/2025,Paid
+912,183,Hinton Ltd,279.99,4/19/2025,Paid
+913,560,Simmons LLC,248.77,4/9/2025,Failed
+914,192,"Wells, Davis and Holmes",717.17,5/9/2025,Failed
+915,165,Nelson Group,373.73,3/27/2025,Paid
+916,906,Harris Inc,180.75,5/3/2025,Paid
+917,115,"Hamilton, Contreras and Larson",116.75,2/15/2025,Failed
+918,578,Gonzales Ltd,359.4,6/1/2025,Failed
+919,170,Wilson Inc,538.55,2/7/2025,Paid
+920,172,Johnson PLC,892.73,5/26/2025,Failed
+921,696,Robinson LLC,46.04,3/24/2025,Paid
+922,411,"Moore, Dominguez and Chavez",457.02,3/18/2025,Paid
+923,116,Elliott LLC,807.14,5/11/2025,Failed
+924,814,Mathews-Smith,832.75,2/26/2025,Failed
+925,755,Perry-Moss,152.99,2/26/2025,Paid
+926,184,Warren Ltd,333.46,6/21/2025,Failed
+927,194,Newman Ltd,517.06,1/11/2025,Failed
+928,773,Hernandez Inc,185.9,2/21/2025,Failed
+929,240,Randolph Ltd,784.12,2/9/2025,Paid
+930,176,Gonzalez Ltd,59.98,2/21/2025,Failed
+931,86,Perez Group,493.66,5/21/2025,Failed
+932,214,Collins-Fuller,647.9,4/10/2025,Paid
+933,290,Sloan-Salinas,946.52,3/17/2025,Paid
+934,370,Hale Ltd,796.1,3/4/2025,Paid
+935,623,"Reyes, Lopez and Porter",531.47,3/1/2025,Paid
+936,63,Rice-Hodges,671.45,4/14/2025,Paid
+937,459,Morales Inc,335.9,3/31/2025,Failed
+938,3,Garcia-King,537.07,3/9/2025,Failed
+939,168,"Mcdonald, Green and Nelson",556.79,2/18/2025,Failed
+940,952,Collins LLC,499.6,2/4/2025,Paid
+941,239,Garcia LLC,786.04,6/13/2025,Failed
+942,447,Glenn Group,463.04,5/22/2025,Failed
+943,51,"Holmes, Powell and Avila",739.16,1/14/2025,Paid
+944,25,Duke-Black,657.4,4/10/2025,Failed
+945,280,Wright Inc,666.68,1/25/2025,Paid
+946,348,"Rivera, Martinez and Pierce",935.09,4/27/2025,Paid
+947,330,"Garcia, Baldwin and Wright",341.12,1/1/2025,Paid
+948,87,Butler-West,507.6,5/17/2025,Paid
+949,453,Mckenzie PLC,183.66,3/21/2025,Failed
+950,249,"Coffey, Beck and Garcia",931.25,6/11/2025,Paid
+951,562,Duke-Wilson,203.65,4/25/2025,Paid
+952,121,"Brown, Hayes and Baker",849.82,4/28/2025,Paid
+953,134,Allen-Ruiz,30.66,6/10/2025,Paid
+954,93,Roberts and Sons,756.38,6/12/2025,Paid
+955,847,Nelson and Sons,209.41,6/10/2025,Paid
+956,438,"Brown, Evans and Patel",897.48,3/22/2025,Failed
+957,547,White Group,50.41,6/4/2025,Paid
+958,373,"Burgess, Shea and Walters",48.88,3/21/2025,Failed
+959,43,Williamson and Sons,413.21,6/8/2025,Paid
+960,68,Curry Group,680.92,2/5/2025,Failed
+961,877,"Li, Harper and Taylor",951.94,4/26/2025,Paid
+962,737,Fowler-Smith,106.94,5/7/2025,Paid
+963,685,Santos-Wood,405.02,5/3/2025,Failed
+964,962,Rodriguez LLC,815.76,2/10/2025,Failed
+965,581,"Montgomery, Montes and Williams",446.92,4/26/2025,Failed
+966,975,"Rollins, Saunders and Martin",211.34,4/28/2025,Paid
+967,168,"Fitzgerald, Fox and Miller",896.35,3/25/2025,Failed
+968,850,Roberts LLC,74.89,6/12/2025,Paid
+969,316,Williams LLC,642.03,3/19/2025,Paid
+970,963,"Brown, Dominguez and Pena",261.52,2/4/2025,Paid
+971,592,Hays-Thomas,81.19,4/24/2025,Paid
+972,103,Rodriguez-Cline,996.86,1/27/2025,Failed
+973,841,"Frazier, Shepherd and Davis",910.61,1/30/2025,Failed
+974,512,"Waller, Phillips and Pace",799.81,6/6/2025,Failed
+975,476,Martinez-Brooks,450.2,5/3/2025,Paid
+976,599,"Martinez, Lewis and Hughes",863.3,2/16/2025,Paid
+977,275,Decker LLC,573.2,1/24/2025,Paid
+978,99,"Woodard, Brock and Brown",494.26,5/26/2025,Paid
+979,810,"Smith, House and Perry",112.67,6/9/2025,Failed
+980,314,Booker LLC,344.48,3/7/2025,Failed
+981,891,"Cruz, Gonzalez and Scott",948.68,6/5/2025,Paid
+982,133,Fletcher-Hess,886.62,1/15/2025,Paid
+983,569,"Bishop, Hodges and Carter",24.11,6/12/2025,Failed
+984,981,Nichols-Arroyo,245.4,2/12/2025,Failed
+985,517,"Summers, Roach and Brown",876.5,1/14/2025,Failed
+986,472,Miller-Hernandez,663.98,1/16/2025,Failed
+987,883,Richardson Ltd,205.8,1/26/2025,Paid
+988,61,Soto PLC,624.92,3/3/2025,Failed
+989,652,Wells Ltd,596.29,5/4/2025,Paid
+990,545,Jones Inc,282.42,6/11/2025,Failed
+991,803,Andrews LLC,251.01,1/3/2025,Failed
+992,179,Clark-Ponce,978.9,1/28/2025,Paid
+993,635,Smith LLC,615.53,5/20/2025,Paid
+994,221,Jackson-Day,636.05,1/14/2025,Failed
+995,718,Velasquez-Gilbert,483.15,5/28/2025,Paid
+996,168,Turner and Sons,706.03,1/29/2025,Failed
+997,31,Jenkins Group,896.39,1/25/2025,Paid
+998,590,"Clements, Hall and Shaffer",512.97,6/12/2025,Failed
+999,201,"Parrish, Hardy and Spears",719.59,5/1/2025,Failed
