@@ -1,0 +1,301 @@
+EmployeeID,BranchID,FullName,Position,Department,Salary,HireDate,Status
+1,4,Jesus Simpson MD,Auditor,Finance,554.64,2021-05-30,Active
+2,11,Ian Vang,Security Officer,Customer Service,1615.2,2024-04-15,Terminated
+3,18,Steven Kent,Manager,IT,1440.87,2022-08-06,Inactive
+4,1,Ricky Mccann,Clerk,IT,964.27,2024-07-10,Inactive
+5,3,Stephen Jensen,Manager,Operations,1244.56,2023-03-21,Terminated
+6,8,Cynthia Bradley,Manager,HR,970.73,2021-07-31,Terminated
+7,7,Jennifer Summers,Analyst,Finance,1685.44,2025-05-30,Terminated
+8,15,Patricia Williams,Security Officer,Finance,1645.37,2020-10-15,Inactive
+9,2,Christopher Nichols,Auditor,IT,2676.14,2016-09-21,Terminated
+10,12,Stephen Pacheco,Security Officer,Customer Service,2158.42,2017-06-12,Active
+11,14,Michael Johnson,Teller,Operations,490.54,2018-12-24,Inactive
+12,15,Keith Mata,Customer Support,Operations,1700.79,2020-06-15,Inactive
+13,15,Peter Schmidt,Auditor,Legal,2798.55,2021-09-01,Inactive
+14,15,Karen Hubbard,Security Officer,Compliance,2202.0,2020-09-20,Inactive
+15,9,Tammy Allen,Manager,Compliance,724.42,2016-07-27,Terminated
+16,15,Zachary Garcia,Security Officer,HR,2219.76,2019-08-21,Active
+17,6,Patrick Andrews II,Customer Support,Operations,2027.99,2015-10-28,Terminated
+18,2,Zachary Robinson,Teller,HR,2247.84,2025-01-03,Inactive
+19,20,Angela Ford,Manager,IT,430.27,2018-09-28,Inactive
+20,19,Amy Chambers,Analyst,Operations,1248.6,2021-12-07,Inactive
+21,7,Michelle Gould,Clerk,HR,993.25,2015-08-06,Inactive
+22,13,Craig Lopez,Teller,Legal,2100.59,2019-08-30,Terminated
+23,16,Eric Rollins,Customer Support,Legal,620.98,2017-04-28,Inactive
+24,2,Theresa Lozano,Security Officer,Finance,341.31,2015-12-23,Active
+25,14,Mark Ward,Security Officer,Compliance,478.09,2019-12-10,Inactive
+26,5,Jonathan Booth,Analyst,IT,1989.1,2024-12-01,Terminated
+27,6,Gabriel James,Clerk,Legal,2414.49,2018-08-14,Terminated
+28,20,Michelle Brown,Teller,IT,1909.77,2016-03-08,Active
+29,15,Jose Lee,Teller,Finance,2573.26,2023-02-03,Terminated
+30,10,Michael Perez,Clerk,Legal,2914.25,2017-09-30,Terminated
+31,17,Jeffrey Smith,Clerk,Operations,2406.75,2024-04-15,Inactive
+32,9,Zachary Kline,Manager,HR,552.64,2018-04-04,Inactive
+33,1,Robert Lee,Clerk,IT,1058.93,2015-09-07,Terminated
+34,18,Amber Mckay,Teller,Compliance,312.89,2017-05-31,Terminated
+35,2,Jenna Blankenship,Auditor,Legal,2503.16,2017-12-30,Active
+36,6,Eric Williams,Analyst,Finance,1919.68,2018-04-28,Terminated
+37,5,Kimberly Dunlap,Teller,HR,2023.7,2020-06-16,Terminated
+38,18,Catherine Kelly,Customer Support,HR,2638.2,2022-05-12,Terminated
+39,13,Kevin Jones,Teller,Customer Service,1300.52,2017-04-27,Active
+40,5,Donald Knight,Customer Support,Customer Service,2694.74,2024-02-20,Terminated
+41,3,Morgan Bradford,Security Officer,HR,2252.8,2018-02-27,Active
+42,5,Dr. Jeffrey Campbell,Auditor,Customer Service,2462.46,2023-07-17,Terminated
+43,12,Tonya Goodman,Teller,HR,1211.42,2015-12-26,Active
+44,18,Stacy Cortez,Teller,Customer Service,405.69,2025-04-08,Inactive
+45,20,Michael Ayala,Clerk,Customer Service,2595.75,2024-11-25,Terminated
+46,18,Kevin Pierce,Customer Support,Legal,2883.1,2019-08-02,Inactive
+47,10,Lance Grant,Customer Support,Compliance,721.15,2021-05-06,Terminated
+48,14,Laura Johns,Teller,IT,2980.13,2021-03-19,Terminated
+49,14,Amy Levy,Clerk,HR,609.2,2016-01-09,Inactive
+50,2,Martha Wells,Customer Support,HR,1015.25,2017-04-01,Active
+51,20,Matthew Smith,Auditor,HR,2459.59,2021-08-24,Inactive
+52,2,Alexander Clarke,Auditor,Operations,1601.94,2020-07-30,Terminated
+53,14,Richard Roberson,Manager,Operations,721.15,2019-02-24,Inactive
+54,10,Cindy Ramirez,Security Officer,Operations,2820.85,2023-08-17,Active
+55,13,Keith Weiss,Teller,IT,1632.98,2023-08-17,Inactive
+56,10,Joseph Taylor,Analyst,Operations,926.8,2023-08-18,Inactive
+57,20,Kenneth Rogers,Auditor,Legal,307.16,2020-10-15,Active
+58,1,Ashley Smith,Security Officer,Finance,2614.43,2017-08-30,Inactive
+59,2,Brenda Johnson,Manager,Finance,851.28,2021-07-04,Inactive
+60,18,David Gonzalez,Analyst,Customer Service,379.12,2020-12-22,Inactive
+61,9,Gary Mitchell,Manager,Legal,1646.43,2020-05-26,Terminated
+62,15,Julie Chung,Teller,Legal,2551.21,2019-03-31,Terminated
+63,13,Louis Farrell,Analyst,Operations,864.79,2021-07-20,Active
+64,20,Kyle Pierce,Teller,Finance,2521.96,2022-01-12,Active
+65,2,Emily Bass,Analyst,Compliance,2291.42,2016-11-20,Active
+66,18,David Mcgee,Manager,Legal,1247.09,2022-08-29,Terminated
+67,17,Carlos Brady,Analyst,Legal,1100.2,2017-08-20,Active
+68,15,Isaac Allen,Security Officer,Customer Service,1898.85,2024-07-14,Inactive
+69,9,Hector Miller,Analyst,Compliance,2797.7,2021-07-03,Inactive
+70,20,Ann Lopez,Manager,Legal,763.7,2024-03-05,Terminated
+71,13,Elizabeth Hayes,Auditor,HR,1576.61,2018-01-11,Active
+72,7,Nicholas Park,Security Officer,Finance,2730.47,2017-05-11,Active
+73,7,Ann Pace,Auditor,Finance,2023.75,2017-06-26,Terminated
+74,11,Christian Garcia,Clerk,HR,599.81,2016-11-13,Active
+75,16,Jennifer Martin,Security Officer,Compliance,2357.12,2015-11-16,Inactive
+76,10,Sherri Taylor,Manager,HR,2486.18,2024-11-06,Active
+77,19,Nicole Luna,Manager,IT,1785.89,2020-12-30,Active
+78,3,Rachel Davis,Customer Support,Compliance,1737.63,2020-06-13,Terminated
+79,16,Tony Cook,Clerk,Finance,1045.19,2024-09-25,Active
+80,2,Cody Reed,Teller,Compliance,2930.06,2024-11-30,Active
+81,12,Michael Jones,Customer Support,IT,759.83,2024-01-02,Terminated
+82,5,Jeffrey Vasquez,Analyst,HR,2416.92,2020-03-08,Inactive
+83,1,Richard Mcdaniel,Analyst,IT,2725.16,2016-01-06,Terminated
+84,7,Linda Hamilton,Analyst,Operations,792.39,2023-08-20,Terminated
+85,12,Jonathon Smith,Security Officer,Operations,1901.52,2017-06-07,Active
+86,15,Jaime Owens,Analyst,Legal,2224.46,2019-01-27,Terminated
+87,17,Lauren Logan,Security Officer,Finance,2106.03,2019-07-14,Terminated
+88,20,Eric Smith,Security Officer,Operations,1273.53,2020-03-09,Inactive
+89,16,Daniel Hammond,Auditor,Legal,1696.17,2016-02-08,Terminated
+90,2,Melanie Vazquez,Analyst,Finance,2932.52,2024-04-19,Inactive
+91,13,Stephanie Jimenez MD,Security Officer,Operations,1647.21,2017-11-04,Inactive
+92,19,Michelle Chandler,Manager,Operations,2752.75,2023-03-23,Inactive
+93,5,Jeffrey Martin,Analyst,Customer Service,1925.96,2023-04-28,Active
+94,12,Douglas Lewis,Customer Support,HR,338.08,2019-09-22,Active
+95,7,Dr. Tina Reed,Customer Support,Compliance,442.46,2021-03-25,Active
+96,3,Tom King,Teller,Finance,2823.82,2019-11-11,Inactive
+97,2,Shawn Fry,Manager,Legal,1494.12,2023-02-03,Active
+98,2,Ms. Emily Massey,Security Officer,Operations,2406.84,2020-08-10,Inactive
+99,15,Jeffrey Hayden,Customer Support,IT,2205.29,2022-11-19,Active
+100,15,Lisa Jensen,Manager,HR,2980.74,2017-06-20,Active
+101,8,Holly Wilkerson,Analyst,IT,738.32,2015-12-30,Inactive
+102,14,Brandi Davis,Customer Support,IT,400.34,2020-11-08,Active
+103,16,Crystal Deleon,Auditor,IT,2864.21,2018-09-02,Terminated
+104,16,Michael Kennedy,Teller,IT,672.38,2018-05-02,Terminated
+105,15,Benjamin Pittman,Teller,Customer Service,1343.65,2022-11-15,Active
+106,18,Jennifer Watson,Teller,Operations,607.6,2024-10-20,Terminated
+107,6,Jose Romero,Auditor,Compliance,1552.34,2022-03-07,Inactive
+108,9,George Manning,Security Officer,Customer Service,643.22,2020-08-20,Terminated
+109,18,Julie Walsh,Manager,Compliance,488.83,2019-05-14,Active
+110,14,Eric Cook,Teller,Finance,501.27,2016-10-05,Active
+111,4,Amanda Thomas,Manager,Legal,2150.66,2017-05-18,Active
+112,20,Brian Thompson,Customer Support,IT,1681.71,2021-05-10,Inactive
+113,4,Melissa Daniels,Auditor,Legal,811.87,2016-03-20,Terminated
+114,16,Danielle Johnson,Manager,HR,2450.18,2024-02-07,Terminated
+115,18,Diane Lowe,Clerk,IT,717.43,2022-02-17,Active
+116,2,Michael Flores,Clerk,Customer Service,1212.32,2020-07-24,Terminated
+117,10,Kristin Crawford,Security Officer,IT,2208.83,2021-10-12,Inactive
+118,11,Chelsea Collins,Clerk,Customer Service,1578.62,2017-03-24,Active
+119,11,Christopher Morris,Analyst,Compliance,337.29,2015-11-03,Active
+120,14,Samantha Gibbs,Security Officer,Legal,713.91,2016-11-27,Inactive
+121,14,Eddie Morris,Clerk,Operations,392.43,2020-01-20,Terminated
+122,7,Joseph Walker,Clerk,Legal,1856.8,2024-07-06,Active
+123,16,Reginald Odonnell,Manager,Compliance,2593.09,2021-04-19,Inactive
+124,2,Erica Ashley,Analyst,HR,2336.31,2022-10-16,Inactive
+125,8,Stephen Gomez,Security Officer,Compliance,390.56,2016-12-29,Active
+126,6,Tara Garner,Clerk,HR,741.27,2017-09-26,Active
+127,16,Zachary Gonzalez,Security Officer,Finance,2099.17,2024-07-13,Active
+128,7,Kimberly Cochran,Security Officer,Finance,1788.14,2022-03-08,Inactive
+129,3,Brittany Martinez,Teller,Customer Service,850.11,2017-07-21,Active
+130,13,Kevin Gonzalez,Auditor,Customer Service,2398.9,2019-04-29,Active
+131,20,Michele Pugh,Auditor,Finance,2049.45,2024-03-08,Inactive
+132,8,Kimberly Madden,Customer Support,Operations,822.75,2024-10-30,Active
+133,5,Robert Mendez,Security Officer,Operations,802.56,2017-06-17,Active
+134,18,Tracy Mckinney,Customer Support,Legal,1217.06,2016-07-13,Active
+135,18,Jennifer Buck,Teller,Operations,762.08,2017-04-23,Inactive
+136,11,Sherri Ortiz,Customer Support,Compliance,1159.95,2023-11-22,Terminated
+137,8,James Freeman,Analyst,Finance,1447.56,2023-01-03,Terminated
+138,3,Jessica Mcdonald,Clerk,Operations,2862.08,2023-12-25,Terminated
+139,14,Michael Smith,Analyst,Legal,375.5,2021-06-17,Inactive
+140,14,Patricia Quinn,Customer Support,Compliance,1320.95,2024-02-26,Inactive
+141,11,Daniel Lee,Analyst,Compliance,2644.23,2021-12-20,Active
+142,9,Tina Joseph,Customer Support,HR,1143.34,2024-10-05,Active
+143,13,Pamela Wilcox,Customer Support,HR,1750.26,2015-08-25,Inactive
+144,11,Kelly Moore,Customer Support,Customer Service,2168.06,2023-05-31,Active
+145,2,Patricia Villanueva,Clerk,HR,823.54,2015-09-03,Inactive
+146,14,Dr. James Castillo,Customer Support,HR,2319.13,2021-09-02,Inactive
+147,4,Robyn Short MD,Analyst,Legal,2020.12,2023-07-07,Terminated
+148,9,Jonathan Nelson,Clerk,Legal,2873.7,2025-04-12,Inactive
+149,11,Andrea Perkins,Clerk,Compliance,1986.94,2021-02-08,Terminated
+150,9,Teresa Rodriguez,Auditor,Legal,355.3,2021-04-21,Inactive
+151,14,Ralph Palmer,Manager,IT,689.38,2016-02-18,Terminated
+152,12,Paul Gonzalez DDS,Security Officer,Operations,926.12,2016-03-25,Terminated
+153,14,Jason Carson,Teller,Customer Service,1628.99,2019-04-19,Active
+154,17,Billy Diaz,Teller,Compliance,1452.42,2024-12-15,Terminated
+155,1,Alison Ramirez,Manager,Finance,1955.9,2019-06-03,Active
+156,4,Stefanie Taylor,Teller,Finance,2072.18,2024-02-17,Active
+157,6,Kathleen Sullivan,Clerk,Compliance,1730.31,2020-10-05,Terminated
+158,20,Matthew Richardson,Auditor,Customer Service,1292.65,2021-06-20,Active
+159,15,Tim Rasmussen,Teller,HR,371.33,2024-01-26,Active
+160,13,Jennifer Hubbard,Manager,Finance,639.82,2025-06-12,Active
+161,16,Kevin Wilkins,Teller,HR,2886.04,2023-01-10,Inactive
+162,5,Kelly Perry,Analyst,Legal,632.21,2024-12-24,Active
+163,1,Steven Johnson,Manager,IT,2966.96,2018-06-02,Active
+164,12,Leah Ramirez,Customer Support,Legal,1437.33,2020-12-25,Inactive
+165,14,Thomas Owen,Teller,Finance,2278.77,2015-09-01,Terminated
+166,15,Brenda Wallace,Teller,Customer Service,2057.62,2015-09-23,Active
+167,7,Laurie Blackwell,Manager,Legal,471.86,2017-11-09,Active
+168,14,Hector Carey,Clerk,Customer Service,2186.3,2016-09-07,Terminated
+169,12,Karen Manning,Security Officer,HR,2114.53,2020-12-07,Inactive
+170,11,Daniel Moreno,Teller,Finance,2528.52,2020-04-04,Inactive
+171,16,Steven Lee,Customer Support,Compliance,2541.75,2025-02-19,Inactive
+172,7,Kevin Reed,Auditor,Legal,1075.41,2018-02-04,Active
+173,20,Tyler Evans,Security Officer,Finance,2190.72,2023-10-04,Inactive
+174,5,Michelle Davis,Clerk,IT,2804.5,2015-12-01,Inactive
+175,19,Brenda Sanders,Teller,IT,2468.15,2020-03-16,Active
+176,14,Tiffany Allen,Security Officer,Legal,2186.12,2016-11-28,Active
+177,8,Adrienne Lopez,Clerk,Operations,1863.01,2022-09-08,Inactive
+178,1,Kim Young,Teller,Customer Service,1076.65,2016-03-23,Inactive
+179,9,Lisa Watson,Auditor,Customer Service,1721.93,2016-11-06,Active
+180,11,Tiffany Davis,Teller,Compliance,1907.84,2016-08-05,Inactive
+181,10,James Lee,Auditor,Customer Service,1640.88,2022-01-16,Active
+182,5,Shane Stephens,Clerk,Finance,766.9,2016-04-15,Inactive
+183,17,Jeffrey Espinoza,Clerk,Finance,1105.38,2016-01-30,Terminated
+184,9,Amber Little,Teller,HR,1834.92,2020-10-03,Terminated
+185,2,Jason Roberts,Security Officer,HR,1992.6,2021-03-09,Terminated
+186,14,Christopher Harmon,Customer Support,Operations,2214.01,2021-12-06,Active
+187,2,Charles Smith,Clerk,IT,1430.31,2015-07-22,Terminated
+188,12,Brian Jones,Clerk,Compliance,793.85,2023-09-07,Active
+189,2,Ryan Lopez,Security Officer,Customer Service,2903.85,2025-05-21,Terminated
+190,1,Holly Miller,Auditor,Compliance,2073.14,2019-12-13,Terminated
+191,2,Andrew Rivas,Security Officer,Customer Service,792.58,2016-10-09,Active
+192,19,Jason Bauer,Analyst,Finance,2272.04,2021-04-16,Inactive
+193,10,Andrew Lopez,Analyst,Customer Service,753.23,2020-02-26,Active
+194,9,Sarah Burton,Teller,Compliance,1167.73,2025-06-12,Inactive
+195,14,Matthew Padilla,Analyst,HR,2914.76,2018-06-28,Terminated
+196,10,Elizabeth Morales,Analyst,HR,859.36,2024-06-11,Active
+197,19,Carl Wilson,Auditor,HR,385.4,2024-08-15,Active
+198,10,Regina Jackson,Auditor,Compliance,1288.8,2024-11-20,Active
+199,2,Rebecca Wallace,Customer Support,Finance,947.34,2023-09-02,Inactive
+200,12,Benjamin Barton,Security Officer,Finance,2249.19,2016-05-06,Terminated
+201,5,Barbara Manning,Manager,Legal,2514.12,2017-01-30,Terminated
+202,14,Karla Johnson,Clerk,HR,2482.6,2021-04-08,Inactive
+203,15,Luis Lynch,Security Officer,Compliance,2482.32,2024-12-11,Terminated
+204,6,Brian Webb,Clerk,Finance,877.99,2019-03-20,Active
+205,5,Paul Leblanc,Teller,HR,430.86,2019-12-28,Terminated
+206,17,Jason Young,Manager,Finance,1490.34,2016-05-23,Inactive
+207,6,Melissa Walker,Manager,Operations,907.88,2020-01-14,Terminated
+208,17,Alexis Watson,Auditor,Customer Service,996.43,2019-04-20,Active
+209,8,Patricia Conrad,Customer Support,IT,441.41,2024-04-25,Active
+210,14,Latasha Valencia,Teller,Compliance,2554.89,2025-03-09,Inactive
+211,5,Christian Burton,Auditor,HR,2454.54,2020-04-12,Inactive
+212,1,Craig Curtis,Teller,Operations,2525.44,2017-07-10,Active
+213,8,Mark Moore,Clerk,Finance,2557.28,2017-01-07,Terminated
+214,8,Jeffrey Warren,Manager,Customer Service,1913.56,2015-09-17,Terminated
+215,3,Veronica Campbell,Clerk,Compliance,2377.3,2024-10-22,Inactive
+216,17,Sherri Rich,Teller,Compliance,1174.87,2019-04-03,Active
+217,7,James Lyons,Clerk,Legal,633.75,2017-11-19,Active
+218,17,Elizabeth Johnson,Teller,Customer Service,680.7,2020-11-01,Active
+219,12,Richard Patel,Security Officer,Operations,798.06,2017-08-27,Active
+220,6,Susan Horn,Clerk,Finance,1198.18,2024-01-08,Active
+221,3,Stephanie Wilkerson,Security Officer,Customer Service,1406.68,2024-06-30,Inactive
+222,20,Derek Dodson,Clerk,Compliance,2231.06,2017-08-06,Inactive
+223,19,Mary Medina PhD,Teller,Legal,2518.46,2021-01-19,Terminated
+224,20,Mario Burgess,Auditor,IT,2307.72,2024-01-21,Inactive
+225,8,Juan Wiggins,Manager,Operations,2299.17,2015-12-02,Active
+226,20,Angela Castro,Teller,Compliance,814.26,2015-10-07,Terminated
+227,3,Richard Henderson,Security Officer,Operations,1403.3,2017-09-29,Active
+228,6,Mark Hernandez,Security Officer,HR,983.38,2021-11-13,Terminated
+229,11,Stephanie Santana,Customer Support,Finance,1480.63,2022-11-23,Inactive
+230,4,Ryan Welch,Clerk,Customer Service,1277.11,2016-05-25,Active
+231,12,Douglas Sims,Analyst,Legal,2636.3,2023-06-14,Inactive
+232,9,Robert Dennis,Manager,Legal,2521.8,2023-03-15,Terminated
+233,3,Barbara Morales,Analyst,HR,1438.27,2024-08-19,Active
+234,15,Kim Parker,Security Officer,HR,1609.11,2020-07-01,Inactive
+235,12,Michael Duncan,Clerk,HR,2384.4,2021-12-27,Terminated
+236,19,Matthew Smith,Security Officer,Operations,1157.76,2023-03-14,Terminated
+237,6,Mark Rosales,Security Officer,HR,645.92,2024-12-20,Inactive
+238,1,Roger Perry,Auditor,HR,1228.52,2018-03-17,Inactive
+239,15,Diane Mccormick,Customer Support,Legal,2561.81,2018-12-26,Active
+240,5,Carrie Kemp,Customer Support,Legal,1759.13,2018-12-09,Active
+241,5,Randall Dodson,Customer Support,Legal,2077.45,2024-08-27,Active
+242,12,James Fox,Manager,HR,2355.07,2015-10-14,Terminated
+243,9,Jason Hubbard,Teller,Compliance,1220.07,2017-06-21,Inactive
+244,9,Christina Cook,Security Officer,IT,399.04,2024-01-04,Active
+245,6,Jonathan Vargas,Manager,IT,2336.95,2020-07-15,Active
+246,8,Jeffrey Holland,Auditor,Finance,1781.28,2023-05-05,Terminated
+247,16,David Taylor,Clerk,IT,762.96,2015-11-28,Terminated
+248,6,Kathleen Hanson,Manager,Customer Service,885.36,2018-12-21,Terminated
+249,9,Christopher Bates,Auditor,Legal,2024.94,2017-05-03,Terminated
+250,7,Paige Edwards,Auditor,IT,2899.05,2016-05-21,Active
+251,17,Pamela Tucker,Teller,Compliance,775.68,2016-01-15,Active
+252,4,Christine Rowe,Auditor,HR,374.26,2018-03-06,Terminated
+253,11,Brian Johnson,Auditor,Operations,1762.14,2021-08-16,Active
+254,7,Chelsea Turner,Security Officer,HR,1697.45,2022-08-30,Active
+255,2,Benjamin Hardy,Manager,Compliance,2259.1,2017-04-26,Active
+256,14,Alexis Anderson,Auditor,Operations,2777.41,2017-10-28,Inactive
+257,10,Crystal Eaton,Teller,Operations,1669.57,2018-08-27,Inactive
+258,19,Christopher Wilson,Auditor,Compliance,2791.79,2018-04-27,Inactive
+259,12,Christopher Butler,Teller,Compliance,1290.17,2021-03-19,Inactive
+260,10,Vincent Waters,Auditor,Compliance,960.06,2019-01-17,Active
+261,2,Matthew Weaver,Clerk,Compliance,1099.65,2020-01-22,Inactive
+262,7,Michelle Johnson,Manager,Compliance,1009.01,2016-05-06,Inactive
+263,20,Heather Casey,Customer Support,Finance,2207.94,2016-08-10,Active
+264,10,Evan Lawson,Clerk,Finance,922.89,2023-06-10,Active
+265,17,Julie Wilson,Teller,Operations,2723.3,2024-04-24,Terminated
+266,2,Derrick Lam,Auditor,Operations,1716.3,2021-03-29,Active
+267,15,Craig Barnes,Analyst,Finance,1490.77,2023-07-18,Inactive
+268,12,Rebecca Arnold,Security Officer,Compliance,1347.48,2022-10-02,Terminated
+269,19,Kayla Sloan,Manager,Finance,2203.34,2023-08-29,Active
+270,15,Theresa Franklin,Security Officer,IT,1492.44,2024-10-03,Inactive
+271,2,Gary Zuniga,Manager,Legal,1994.97,2019-08-21,Terminated
+272,9,Chelsea Castillo,Customer Support,Finance,672.26,2024-08-06,Terminated
+273,13,Aaron Small,Clerk,Legal,1336.0,2020-07-02,Inactive
+274,15,Kimberly Cox,Teller,HR,1854.29,2020-03-31,Active
+275,9,Alexander Sims,Analyst,IT,1247.91,2020-09-27,Terminated
+276,8,Tina Blackburn,Customer Support,HR,1769.79,2017-11-03,Active
+277,6,William Swanson,Analyst,HR,2856.58,2022-05-04,Terminated
+278,2,Kellie Black,Auditor,Legal,1113.14,2020-07-20,Inactive
+279,20,Glenda Reed,Clerk,Customer Service,607.45,2025-01-10,Inactive
+280,4,Joseph Rhodes,Auditor,Operations,2461.61,2019-01-15,Inactive
+281,1,Dillon Salazar,Analyst,IT,2922.78,2016-05-10,Active
+282,8,Christine Sims,Clerk,Operations,1997.84,2017-02-24,Inactive
+283,16,Dean Carroll,Customer Support,IT,750.98,2017-01-03,Terminated
+284,20,Tina Buckley,Analyst,IT,650.55,2025-05-03,Terminated
+285,9,Amber Andrade,Auditor,Legal,909.29,2016-08-24,Inactive
+286,9,Sandra Parker,Customer Support,Finance,1703.2,2022-02-28,Active
+287,14,John Briggs,Clerk,HR,1214.25,2022-07-06,Active
+288,12,Mr. Grant Harvey,Analyst,Compliance,2721.46,2020-06-26,Terminated
+289,5,Dean Wilson,Teller,Customer Service,2907.34,2023-02-02,Inactive
+290,11,Monica Williams,Manager,Compliance,1038.99,2022-09-29,Terminated
+291,7,Christopher Rodriguez,Clerk,Compliance,1275.39,2019-03-05,Inactive
+292,6,Jessica Chandler,Teller,Operations,836.55,2021-05-21,Inactive
+293,10,Susan Ward,Customer Support,HR,1566.18,2024-08-14,Active
+294,17,Douglas Johnson,Analyst,HR,1088.84,2022-10-01,Inactive
+295,2,Michael Nguyen,Manager,Customer Service,1960.52,2021-05-28,Terminated
+296,6,Rebecca Harris,Security Officer,Compliance,842.66,2024-10-12,Inactive
+297,13,Omar Beard,Customer Support,HR,2801.98,2023-03-08,Inactive
+298,9,Jose Peterson,Analyst,HR,2853.01,2016-10-30,Active
+299,15,Peter Gardner MD,Clerk,IT,1244.35,2023-01-08,Terminated
+300,1,Eric Thomas,Manager,HR,2366.62,2023-02-04,Terminated

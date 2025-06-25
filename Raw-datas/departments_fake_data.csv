@@ -1,0 +1,11 @@
+DepartmentID,DepartmentName,ManagerID
+1,Finance,8
+2,Operations,43
+3,Retail Banking,288
+4,Risk Management,95
+5,Compliance,72
+6,IT,106
+7,HR,31
+8,Legal,258
+9,Treasury,111
+10,Digital Banking,186

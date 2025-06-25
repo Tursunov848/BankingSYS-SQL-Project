@@ -1,0 +1,201 @@
+MerchantID,MerchantName,Industry,Location,CustomerID
+1,Miller Ltd,Food & Beverage,"West Kathleen, Spain",120
+2,"Williams, Patel and Bennett",Entertainment,"Jonesshire, Mexico",185
+3,Figueroa LLC,Entertainment,"East Andreaville, Cameroon",931
+4,"Walters, Irwin and Blankenship",Technology,"East Dustin, Cote d'Ivoire",413
+5,"Thompson, Orr and Jones",E-commerce,"Holdermouth, El Salvador",105
+6,Washington Inc,Food & Beverage,"North Isaactown, Ecuador",346
+7,"Stuart, Dixon and Williams",Technology,"East Lindseytown, Djibouti",58
+8,Ruiz PLC,Travel,"East Rebecca, Samoa",595
+9,Young Inc,Finance,"Kruegerburgh, Fiji",456
+10,"Perez, Gould and Nelson",Technology,"Paigemouth, Papua New Guinea",380
+11,Castillo-Ramirez,Logistics,"Port Anna, Bhutan",487
+12,Edwards PLC,Technology,"New Ariel, Japan",975
+13,Morgan Ltd,Retail,"Lake Shannon, Bouvet Island (Bouvetoya)",407
+14,"Palmer, Luna and Phillips",Healthcare,"East Jodi, Svalbard & Jan Mayen Islands",164
+15,Parsons and Sons,Entertainment,"Johnsonhaven, Luxembourg",570
+16,Bishop and Sons,Travel,"Vanessamouth, Malaysia",874
+17,Rangel-White,Technology,"Phillipsbury, Colombia",672
+18,"Lopez, Mcintosh and Jones",Technology,"Sparksbury, Saint Vincent and the Grenadines",693
+19,Lopez Group,Finance,"Brandonfurt, Bermuda",669
+20,Norman PLC,Retail,"South Robert, Saudi Arabia",660
+21,Walls-Liu,Food & Beverage,"West Jasmine, Nicaragua",112
+22,Burnett-Alvarez,Entertainment,"Stephanietown, Uzbekistan",40
+23,Fitzpatrick-Rodriguez,Healthcare,"New Danielshire, Guinea",299
+24,Henderson-Waller,Telecom,"New Sara, China",180
+25,Campos Group,Entertainment,"Port Sarah, Qatar",280
+26,Kennedy and Sons,Travel,"Griffinmouth, Spain",158
+27,Gibbs Ltd,Finance,"East Mary, China",787
+28,Wilson-Coleman,Travel,"Lowemouth, Lao People's Democratic Republic",763
+29,"Barnes, Frank and Salinas",E-commerce,"Perezfort, Guam",719
+30,"Clark, Ford and Anderson",Entertainment,"South Brandon, Sao Tome and Principe",146
+31,Simpson-Frazier,E-commerce,"Careyshire, Afghanistan",173
+32,Lewis and Sons,Food & Beverage,"West Rebeccaview, Burkina Faso",712
+33,Scott-Ramirez,Telecom,"South Williamton, Christmas Island",135
+34,"Wilson, Smith and Johnston",Travel,"North Williamville, Marshall Islands",97
+35,Mcclure Group,Telecom,"Lambfurt, South Georgia and the South Sandwich Islands",117
+36,Mercado-Wright,Logistics,"New Deanna, Kyrgyz Republic",191
+37,Fisher-Rogers,Travel,"North Markside, Serbia",577
+38,"Garcia, Nichols and Conley",Telecom,"Bowersfurt, Puerto Rico",949
+39,Bush and Sons,Logistics,"East Juan, Togo",887
+40,Davis-Beasley,Healthcare,"Jasonberg, Finland",391
+41,Webb-Rosario,Telecom,"Millermouth, Gibraltar",332
+42,Collins Group,E-commerce,"East Joditon, Brazil",512
+43,Bryant LLC,Entertainment,"Matatown, Kiribati",535
+44,Flores Ltd,E-commerce,"North Sarahton, Ecuador",153
+45,Sullivan-Warren,Food & Beverage,"Colonbury, Vietnam",978
+46,"Marquez, Barr and Walker",E-commerce,"North Ericamouth, Mayotte",296
+47,"Baker, Underwood and Perez",Entertainment,"Sherrystad, Oman",34
+48,"Weaver, Rodriguez and Torres",Telecom,"Christianbury, Mongolia",389
+49,Armstrong-Richardson,E-commerce,"Brianchester, Guadeloupe",652
+50,"Hicks, Hill and Harris",Retail,"North Philip, Saint Pierre and Miquelon",675
+51,Deleon-Lewis,Retail,"Andrewston, China",423
+52,Robertson Inc,Entertainment,"South Michaelview, Syrian Arab Republic",166
+53,Bennett PLC,E-commerce,"Tylerfort, United Kingdom",170
+54,Nelson PLC,Technology,"Michaelstad, Lao People's Democratic Republic",561
+55,Barry-Richardson,Travel,"Walshfort, Somalia",835
+56,Atkins Ltd,Finance,"Port David, United Arab Emirates",13
+57,"Carter, Grant and Griffin",E-commerce,"Lisastad, Tunisia",670
+58,"Stephens, Hubbard and Meyer",Retail,"Martinville, Nepal",656
+59,Bartlett LLC,Entertainment,"Burnettville, Zambia",49
+60,"Moore, Hawkins and Ryan",Retail,"East Christopherview, India",891
+61,Rogers Ltd,Retail,"West Lindseyview, Mexico",869
+62,Cole-Guzman,Healthcare,"Morganmouth, Equatorial Guinea",201
+63,Bond Inc,Finance,"North Wendytown, Nepal",366
+64,Gregory LLC,Logistics,"Lyonsport, Mauritania",338
+65,"Hester, Webb and Ramos",Finance,"Mccallmouth, Cambodia",681
+66,"Martin, Silva and Bender",E-commerce,"Port Kimberlyborough, Christmas Island",503
+67,Serrano-Evans,Telecom,"Lake Willieside, Northern Mariana Islands",898
+68,"Wood, Ramirez and King",Entertainment,"Kellyville, Georgia",340
+69,Powell-Montgomery,Entertainment,"Robinsonborough, Kyrgyz Republic",855
+70,Moore-Mclean,Telecom,"East Gregoryshire, Mauritius",605
+71,"Becker, Liu and Guerra",Food & Beverage,"Shawburgh, Ukraine",483
+72,Crawford PLC,Technology,"Lake Brittany, Cocos (Keeling) Islands",468
+73,Boyd Ltd,Logistics,"North Ruthhaven, Guam",851
+74,Parrish PLC,Retail,"Rodriguezton, Germany",631
+75,"Woodard, Fernandez and Conner",Finance,"East Pamela, Falkland Islands (Malvinas)",118
+76,"Bailey, Young and Dennis",E-commerce,"Barnesland, Burundi",799
+77,"Stone, Garrett and Hicks",Technology,"Jameschester, Madagascar",462
+78,Hunter-Williams,Travel,"New Angela, Nicaragua",422
+79,"Austin, Wilson and Gonzales",Logistics,"North Whitney, Afghanistan",454
+80,Smith-Porter,Technology,"North Keithshire, Belize",152
+81,Anderson Inc,Travel,"Christopherfort, Samoa",433
+82,Solomon LLC,Finance,"Wellstown, Bermuda",621
+83,Smith-Anderson,Logistics,"Torresstad, Monaco",702
+84,"Valencia, Daniel and Wade",Healthcare,"Port Tiffanyton, American Samoa",592
+85,Harper PLC,Healthcare,"Leville, Martinique",644
+86,Brown LLC,Finance,"Natashaburgh, Russian Federation",757
+87,"Scott, Anderson and Harris",Travel,"South Robertside, Croatia",368
+88,Dennis and Sons,Technology,"New Mirandaport, Burkina Faso",106
+89,Williams Ltd,Finance,"Millershire, Taiwan",342
+90,Decker Group,Logistics,"Paulville, American Samoa",374
+91,"Carr, Lewis and Chavez",Retail,"Jenniferport, Bolivia",235
+92,Fisher Ltd,Retail,"Davismouth, Comoros",455
+93,Delgado LLC,Technology,"Port Troychester, Antigua and Barbuda",544
+94,Williams LLC,Logistics,"Kristinemouth, Afghanistan",616
+95,Adams-Collins,Telecom,"Thomasview, Norfolk Island",258
+96,"Jordan, Gonzales and King",E-commerce,"South Ashleyhaven, Falkland Islands (Malvinas)",453
+97,Smith Ltd,Entertainment,"North Lauren, Sierra Leone",650
+98,Simpson-Benitez,Finance,"Littlehaven, Tonga",700
+99,"Morgan, Khan and Harrell",Entertainment,"South Jakeland, Italy",622
+100,Hall-Schmidt,Food & Beverage,"Hoffmanfurt, Samoa",692
+101,"Blair, Calhoun and Walker",Entertainment,"New Louisfort, Oman",101
+102,Shah-Love,Food & Beverage,"Ryantown, Pakistan",852
+103,Williams Group,Retail,"East Jessicaport, British Indian Ocean Territory (Chagos Archipelago)",832
+104,Wilkinson PLC,E-commerce,"South Andrewborough, Niue",722
+105,Wright-Lee,Travel,"Port Kimberlyton, Tokelau",601
+106,Duran PLC,Retail,"Martinmouth, Cote d'Ivoire",654
+107,"Kaufman, Rocha and Saunders",Food & Beverage,"Goldenshire, Ethiopia",163
+108,"Gordon, Wright and Gutierrez",E-commerce,"West Michelle, Zimbabwe",446
+109,"Avila, Roberts and Phillips",Healthcare,"Chanchester, Indonesia",597
+110,"Nelson, Harris and Alvarez",Finance,"Chandlerside, Northern Mariana Islands",44
+111,"Tapia, Mccarthy and King",Logistics,"Lake Megan, Belarus",690
+112,"Williams, Meyers and Brown",E-commerce,"Michaelburgh, Andorra",10
+113,"Mendez, Lewis and Gross",E-commerce,"Tateport, Latvia",260
+114,Hayes Ltd,Retail,"North Amberview, Papua New Guinea",168
+115,Martinez Ltd,Finance,"New Matthew, Tunisia",306
+116,Harper Ltd,Travel,"West Melissa, Indonesia",274
+117,Donaldson Ltd,Entertainment,"Snyderburgh, Turkey",226
+118,Joseph-Thompson,Healthcare,"Port Lindsey, French Southern Territories",521
+119,"Melton, Newton and Castro",Healthcare,"Lake Lisa, Qatar",33
+120,"Lyons, Norton and Hensley",Food & Beverage,"Harveymouth, Iraq",111
+121,Calderon and Sons,Food & Beverage,"Lake Christopher, Chile",708
+122,Smith LLC,Retail,"Kevinmouth, Malawi",228
+123,Martinez-Callahan,Logistics,"West Colleen, Jordan",728
+124,"Lewis, Chavez and Huff",Finance,"West Kevinhaven, South Georgia and the South Sandwich Islands",485
+125,Mccormick LLC,Retail,"Port Kimberlyfurt, Japan",991
+126,"Hale, Johnson and Thompson",Technology,"North Michelle, Eritrea",968
+127,Warner-Long,Logistics,"Lucaston, Sudan",355
+128,Frazier-Woodard,Telecom,"Paigestad, New Caledonia",95
+129,Cantu and Sons,Entertainment,"Johnsonshire, Malaysia",754
+130,"Simon, Thompson and Green",Technology,"Baldwinland, Tajikistan",773
+131,Nguyen-Ramos,Food & Beverage,"North Nicholasside, Faroe Islands",994
+132,Barton-Thompson,E-commerce,"Johnsonborough, Seychelles",553
+133,Shields LLC,E-commerce,"Banksshire, Italy",639
+134,"Cox, Ryan and Santana",Telecom,"Lake Jacquelineside, Hungary",401
+135,Olson-Hodge,Retail,"South Anthonyview, Mongolia",257
+136,"Brooks, Watts and Robinson",Travel,"Port Tammyside, Uzbekistan",459
+137,Phillips Group,Retail,"North Ruthburgh, Wallis and Futuna",286
+138,Gill-Jimenez,Technology,"Tiffanyton, Jordan",714
+139,"Bryant, Harris and Williams",Telecom,"Vangchester, El Salvador",826
+140,"Pearson, Myers and Oconnor",Entertainment,"Burnsfort, South Africa",740
+141,"Fuller, Vasquez and Williams",Retail,"West Roberthaven, Kenya",1
+142,"Santana, Snyder and Garrett",Logistics,"West Heatherborough, Kazakhstan",659
+143,"Taylor, Fowler and Ryan",Food & Beverage,"Port Kimberly, Mauritania",445
+144,Johnson-Valdez,Technology,"North Kimberlymouth, Haiti",614
+145,Cunningham LLC,E-commerce,"Alexanderland, Aruba",871
+146,Gray-Hamilton,Travel,"Lorifort, Timor-Leste",376
+147,Waters and Sons,Logistics,"Maryshire, Antarctica (the territory South of 60 deg S)",428
+148,Jordan LLC,Entertainment,"Andersonstad, Chile",421
+149,Andrade-Wilson,Food & Beverage,"Martinezmouth, Tuvalu",598
+150,Galloway Ltd,Entertainment,"Millermouth, Bouvet Island (Bouvetoya)",352
+151,Baird Ltd,Travel,"Leviborough, Honduras",854
+152,Williams-Fowler,Finance,"West Christine, United States Minor Outlying Islands",42
+153,"Stewart, Phillips and Larson",Travel,"Sandrashire, Congo",216
+154,Richards-Chung,Travel,"East Dustinstad, Martinique",438
+155,Mcintosh Group,Entertainment,"Mannstad, Saint Martin",541
+156,Steele LLC,Retail,"Conradton, Barbados",548
+157,Brown-Bray,Retail,"Evanshire, Brazil",785
+158,Smith Group,Retail,"Rossberg, Namibia",369
+159,Bryant and Sons,Finance,"North Paulburgh, Andorra",69
+160,Baker-Chan,Entertainment,"Port Williamshire, Austria",297
+161,"Burgess, Thompson and Morris",Retail,"Victorshire, Montserrat",213
+162,"Johnson, Ayers and Boone",Finance,"Hollystad, Bosnia and Herzegovina",673
+163,Armstrong-Coffey,Finance,"Rogerston, Slovakia (Slovak Republic)",958
+164,"Wood, White and Delacruz",Technology,"Elizabethshire, Paraguay",559
+165,Owens Ltd,Finance,"Port Matthew, Guyana",738
+166,Rios Group,Telecom,"Obrienhaven, Andorra",643
+167,Osborne Inc,Technology,"New Dawnbury, Christmas Island",802
+168,"Weiss, Perez and Anderson",Finance,"Bauerview, Pitcairn Islands",167
+169,Morales-Key,Technology,"Franklinhaven, Armenia",448
+170,Flores and Sons,Food & Beverage,"Nicholasstad, Wallis and Futuna",783
+171,Peterson PLC,Travel,"South Gabrielle, Nigeria",845
+172,Mills-Stevens,Entertainment,"Snowberg, Holy See (Vatican City State)",246
+173,Fernandez-Rogers,Retail,"West Shelia, Qatar",551
+174,Garcia-Sloan,Logistics,"New Anthony, Tonga",878
+175,"Cohen, Gordon and Long",E-commerce,"North Greg, Saudi Arabia",92
+176,Delgado-Johnson,Technology,"Jillport, Turkey",504
+177,"Harper, Ferguson and Mccoy",Entertainment,"Port Michelemouth, Honduras",998
+178,"Grant, Villa and Bell",Entertainment,"Turnerhaven, Guinea-Bissau",255
+179,Gray Inc,E-commerce,"Jacobton, Saint Lucia",567
+180,"Davis, Clark and Maldonado",Telecom,"South Caseyville, Cook Islands",429
+181,Berry Inc,Finance,"Cindyland, El Salvador",177
+182,"Carter, Smith and Tucker",Entertainment,"Cynthiaport, Papua New Guinea",46
+183,Aguilar-Mitchell,Retail,"Kirkberg, Cambodia",817
+184,"Aguirre, Cordova and Lawrence",Technology,"Lake Kellychester, Belarus",230
+185,Washington-Fuller,E-commerce,"Lake Kyleview, Fiji",277
+186,Anderson Inc,Food & Beverage,"Wilcoxborough, Bermuda",663
+187,Fleming-Butler,Entertainment,"North Maryshire, Wallis and Futuna",474
+188,Smith-Carter,E-commerce,"Romeromouth, Lesotho",703
+189,Hoover and Sons,Technology,"New Adam, Isle of Man",797
+190,Collier-Olson,Logistics,"Port Claudia, Benin",744
+191,Case Ltd,Technology,"Lake Mark, Tunisia",132
+192,Alvarez-Jones,Technology,"North Leah, Saint Lucia",114
+193,Wilson-Miller,Logistics,"Suttonport, Kenya",537
+194,Ramos PLC,Travel,"New Brianna, Suriname",701
+195,"Pittman, Davis and Tate",Travel,"Lisamouth, Israel",281
+196,Brown-Baker,Telecom,"Russoberg, Isle of Man",720
+197,"Pittman, Ramirez and Dudley",Food & Beverage,"Staceyville, Moldova",542
+198,Jenkins-Montoya,Healthcare,"Reneeside, Saudi Arabia",323
+199,Harper-Myers,Healthcare,"Port Brenda, Gabon",602
+200,Delacruz Group,Entertainment,"Port Oscar, Liechtenstein",156
