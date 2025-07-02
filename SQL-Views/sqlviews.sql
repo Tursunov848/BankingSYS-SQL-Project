@@ -175,75 +175,79 @@ select * from Fraud_HighValue_QuickTxns
 
 ---Fraud_CrossCountry_QuickTxns---10 daqiqadan kam vaqt ichida bir xil mijoz (CustomerID) tomonidan turli mamlakatlardan 
 --(Country) tranzaksiya amalga oshirilgan bo‘lsa — bu firibgarlik (fraud) ehtimolini bildiradi.
+CREATE VIEW Fraud_CrossCountry_QuickTxns AS
 
-create view Fraud_CrossCountry_QuickTxns as
-
-with TxnsWithCountry as (
-    select 
+-- 1. Transactionlar va ularning kelgan davlatlari
+WITH TxnsWithCountry AS (
+    SELECT 
         t.TransactionID,
         a.CustomerID,
         t.AccountID,
-        t.Date as TxnDate,
-        b.Country
-    from Core_Banking.Transactions t
-     join Core_Banking.Accounts a on t.AccountID = a.AccountID
-     join Core_Banking.Branches b on a.BranchID = b.BranchID
-    where t.Status = 'Completed' AND b.Country is not null
+        t.Date AS TxnDate,
+        t.Country  -- TO‘G‘RI! Endi t.Country dan olinadi
+    FROM Core_Banking.Transactions t
+    JOIN Core_Banking.Accounts a ON t.AccountID = a.AccountID
+    WHERE t.Status = 'Completed' AND t.Country IS NOT NULL
 ),
 
-TxnPairs as (
-    select 
+-- 2. Bir mijoz tomonidan 10 daqiqadan kam vaqtda, har xil mamlakatdan tranzaksiya qilingan juftliklar
+TxnPairs AS (
+    SELECT 
         t1.CustomerID,
-        t1.TransactionID as TxnID1,
-        t1.TxnDate as TxnDate1,
-        t1.Country as Country1,
-        t2.TransactionID as TxnID2,
-        t2.TxnDate as TxnDate2,
-        t2.Country as Country2,
-        datediff(minute, t1.TxnDate, t2.TxnDate) as MinutesDiff
-    from TxnsWithCountry t1
-    join TxnsWithCountry t2
-        on t1.CustomerID = t2.CustomerID
+        t1.TransactionID AS TxnID1,
+        t1.TxnDate AS TxnDate1,
+        t1.Country AS Country1,
+        t2.TransactionID AS TxnID2,
+        t2.TxnDate AS TxnDate2,
+        t2.Country AS Country2,
+        ABS(DATEDIFF(MINUTE, t1.TxnDate, t2.TxnDate)) AS MinutesDiff
+    FROM TxnsWithCountry t1
+    JOIN TxnsWithCountry t2 
+        ON t1.CustomerID = t2.CustomerID
         AND t1.TransactionID < t2.TransactionID
-        AND abc(datediff(minute, t1.TxnDate, t2.TxnDate)) < 10
+        AND ABS(DATEDIFF(MINUTE, t1.TxnDate, t2.TxnDate)) < 10
         AND t1.Country <> t2.Country
 ),
 
-FlaggedCustomers as (
-    select distinct CustomerID from TxnPairs
+-- 3. Shubhali mijozlar ro‘yxati
+FlaggedCustomers AS (
+    SELECT DISTINCT CustomerID FROM TxnPairs
 )
 
-select 
+-- 4. Hisobot: flaglangan mijozlar bo‘yicha umumiy ma’lumotlar
+SELECT 
     c.CustomerID,
     c.FullName,
-    count(distinct t.TransactionID) as TotalTxns,
-    max(t.Date) as LastTxnDate,
-    count(distinct b.Country) as UniqueCountriesUsed,
+
+    COUNT(DISTINCT t.TransactionID) AS TotalTxns,
+    MAX(t.Date) AS LastTxnDate,
+    COUNT(DISTINCT t.Country) AS UniqueCountriesUsed,
 
     (
-        select avg(abc(datediff(minute, p.TxnDate1, p.TxnDate2))) 
-        from TxnPairs p where p.CustomerID = c.CustomerID
-    ) as AvgMinutesBetweenCrossCountryTxns,
+        SELECT AVG(ABS(DATEDIFF(MINUTE, p.TxnDate1, p.TxnDate2)))
+        FROM TxnPairs p
+        WHERE p.CustomerID = c.CustomerID
+    ) AS AvgMinutesBetweenCrossCountryTxns,
 
---Barcha Completed tranzaksiyalarning umumiy summasi (USD da).
-sum(case when t.Currency = 'USD' then t.Amount 
-         when t.Currency = 'EUR' then t.Amount * 1.1  -- Sample conversion
-         when t.Currency = 'UZS' then t.Amount / 12500
-         else t.Amount end) as TotalTxnAmountUSD,
-max(b.Country) as LastCountryUsed
+    -- Tranzaksiyalar USD ga konvertatsiya qilinadi
+    SUM(CASE 
+        WHEN t.Currency = 'USD' THEN t.Amount
+        WHEN t.Currency = 'EUR' THEN t.Amount * 1.1
+        WHEN t.Currency = 'UZS' THEN t.Amount / 12500
+        ELSE t.Amount 
+    END) AS TotalTxnAmountUSD,
 
+    MAX(t.Country) AS LastCountryUsed
 
-
-
-from FlaggedCustomers fc
-join Core_Banking.Customers c on c.CustomerID = fc.CustomerID
-join Core_Banking.Accounts a on a.CustomerID = c.CustomerID
-join Core_Banking.Transactions t on t.AccountID = a.AccountID AND t.Status = 'Completed'
-join Core_Banking.Branches b on a.BranchID = b.BranchID
-group by c.CustomerID, c.FullName;
+FROM FlaggedCustomers fc
+JOIN Core_Banking.Customers c ON c.CustomerID = fc.CustomerID
+JOIN Core_Banking.Accounts a ON a.CustomerID = c.CustomerID
+JOIN Core_Banking.Transactions t ON t.AccountID = a.AccountID AND t.Status = 'Completed'
+GROUP BY c.CustomerID, c.FullName;
 
 
 select * from Fraud_CrossCountry_QuickTxns
+
 
 --Suspicious Customer   	CustomerID, FullName	            Asosiy identifikator
 --Txn Pairs <10 min	        CrossCountryTxnPairs                Hodisalar soni
