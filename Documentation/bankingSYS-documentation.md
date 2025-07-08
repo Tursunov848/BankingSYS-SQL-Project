@@ -65,5 +65,4 @@
 - KPIs + SPs: 2 July  
 - Final dashboard & docs: 5 July  
 
-## 11. Future Features
-*To be updated: credit score modeling, predictive risk scoring, automation via SQL Agent jobs*
+
