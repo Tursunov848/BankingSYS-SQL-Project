@@ -5,9 +5,9 @@
 **Purpose:** Develop a reliable SQL-based BI system for a fictional bank previously reliant on Excel.  
 
 ## 2. Team & Roles
-- **[You]:** Team leader – management, task division, SPs, documentation  
+- **Abdumannof Tursunov:** Team leader – management, task division, SPs, documentation  
 - **Faxriddin Shukurov:** Data engineering – schemas, tables, data ingestion, views  
-- **Oybek:** Power BI dashboard, additional views  
+- **Oybek Yo'ldoshev:** Power BI dashboard, additional views  
 
 ## 3. Tools Used
 - **SQL Server** for database development  
