@@ -53,5 +53,3 @@ The goal was to replace error-prone Excel sheets with a scalable, maintainable S
 - **Dashboard & Docs:** by 5 July  
 - **Final Deadline:** 5 July
 
-## 🚀 Innovation
-To be added...
