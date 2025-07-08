@@ -325,3 +325,28 @@ having sum(case when lp.PaymentDate > l.EndDate then 1 else 0 end) > 0;
 
 select * from Customers_With_Repayment_Delays
 order by  LatePaymentsCount desc
+
+
+-- ✅ KPI: Cross-Country Transactions Within 10 Minutes
+
+USE Banking_System;
+GO
+
+CREATE VIEW dbo.CrossCountry_Transactions_Under_10_Min AS
+WITH TransactionPairs AS (
+    SELECT 
+        t1.TransactionID AS Txn1,
+        t2.TransactionID AS Txn2,
+        a1.CustomerID,
+        t1.Date AS Date1,
+        t2.Date AS Date2,
+        t1.Country AS Country1,
+        t2.Country AS Country2,
+        DATEDIFF(MINUTE, t1.Date, t2.Date) AS MinutesDiff
+    FROM Core_Banking.Transactions t1
+    JOIN Core_Banking.Accounts a1 ON t1.AccountID = a1.AccountID
+    JOIN Core_Banking.Transactions t2 ON a1.AccountID = t2.AccountID
+    WHERE t1.TransactionID < t2.TransactionID
+      AND t1.Country <> t2.Country
+      AND ABS(DATEDIFF(MINUTE, t1.Date, t2.Date)) <= 10
+)
